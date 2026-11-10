@@ -1,0 +1,424 @@
+{
+  "project_ref": "gpstwmffctwqlcakmvgw",
+  "cohort": "development",
+  "source_directory": "/Users/shangbao666/Desktop/人物短视频_5条_20261105",
+  "source_csv_sha256": "e77f9b31874a5af11c89222b96fa257039fae30817e10d015617744ac7e2739e",
+  "clips": [
+    {
+      "id": "bc761749-e6fd-5f5f-8a1d-4d396ac3d208",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "game_id": null,
+      "content_category": "lifestyle",
+      "title": "Addison Rae — If you find my hat ill buy you a banana split",
+      "creator": "Addison Rae",
+      "source_title": "If you find my hat ill buy you a banana split",
+      "source_url": "https://www.tiktok.com/@addisonre/video/7402810473412037934",
+      "source_date_csv": "20240814",
+      "source_platform": "TikTok",
+      "source_metadata_provenance": "User-provided source CSV; no independent identity/license attestation",
+      "upload_authorization": "User explicitly requested upload and publication of these local files on 2026-11-05",
+      "license": "No additional license asserted; original creator rights retained",
+      "local_source": "/Users/shangbao666/Desktop/人物短视频_5条_20261105/01_女生_Addison_Rae.mp4",
+      "source_sha256": "ce629381b205760a893e9b13bd107f4d9ec557a4cee0afdf6c1f8cbc11da711a",
+      "source_bytes": 4268025,
+      "media_sha256": "ce629381b205760a893e9b13bd107f4d9ec557a4cee0afdf6c1f8cbc11da711a",
+      "media_bytes": 4268025,
+      "media_type": "video/mp4",
+      "media_codec": "hvc1",
+      "duration_seconds": 15.033,
+      "media_dimensions": [
+        1080,
+        1920
+      ],
+      "tracks": [
+        {
+          "kind": "vide",
+          "codec": "hvc1",
+          "duration_seconds": 15.033,
+          "dimensions": [
+            1080,
+            1920
+          ]
+        },
+        {
+          "kind": "soun",
+          "codec": "mp4a",
+          "duration_seconds": 15.045
+        }
+      ],
+      "thumbnail_sha256": "6bca1fe28c8468ec509ee24971cc4b322bcc4e3543f1c0f4933becbd3119194a",
+      "thumbnail_bytes": 414039,
+      "thumbnail_dimensions": [
+        360,
+        640
+      ],
+      "thumbnail_media_type": "image/png",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/bc761749-e6fd-5f5f-8a1d-4d396ac3d208/video.mp4",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/bc761749-e6fd-5f5f-8a1d-4d396ac3d208/cover.png",
+      "caption": "Addison Rae — If you find my hat ill buy you a banana split\nCreator: Addison Rae.\nSource: https://www.tiktok.com/@addisonre/video/7402810473412037934\nUser-provided video; original audio/video unchanged; real frame cover extracted.",
+      "local_cache_directory": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/bc761749-e6fd-5f5f-8a1d-4d396ac3d208",
+      "decoded_review_samples": [
+        {
+          "label": "start",
+          "requested_seconds": 0.5,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/bc761749-e6fd-5f5f-8a1d-4d396ac3d208/start.png",
+          "sha256": "6bca1fe28c8468ec509ee24971cc4b322bcc4e3543f1c0f4933becbd3119194a"
+        },
+        {
+          "label": "middle",
+          "requested_seconds": 7.516,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/bc761749-e6fd-5f5f-8a1d-4d396ac3d208/middle.png",
+          "sha256": "feda1083f077438682847af6aa7e87bcbac77b116e05ce21e8e67aca22d8d092"
+        },
+        {
+          "label": "end",
+          "requested_seconds": 14.433,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/bc761749-e6fd-5f5f-8a1d-4d396ac3d208/end.png",
+          "sha256": "90d2ea4b6011d7d3e6a7e003ad977ac0327e715bebd9658333f8ec68c758f9b4"
+        }
+      ],
+      "visual_review": "accepted",
+      "audio_review": "Track/container inspected; audio not listened to",
+      "preparation_status": "prepared-awaiting-visual-review",
+      "cover_selection": "Decoded frame from the start review segment, requested at0.5seconds",
+      "reviewed_on": "2026-11-05",
+      "review_scope": "Decoded start/middle/end video samples and real cover visually inspected. Ordinary portrait, outfit/dance/selfie scenes; no exhaustive frame-by-frame moderation or audio listening. Creator attribution is supplied by user CSV, not face identification."
+    },
+    {
+      "id": "51628a69-1010-5201-b5bc-20346473161f",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "game_id": null,
+      "content_category": "lifestyle",
+      "title": "Brooke Monk — Which one is best? #dance #shorts #short #dress #love #couple #school",
+      "creator": "Brooke Monk",
+      "source_title": "Which one is best? #dance #shorts #short #dress #love #couple #school",
+      "source_url": "https://www.youtube.com/watch?v=krZt5pSdbmI",
+      "source_date_csv": "20240710",
+      "source_platform": "YouTube Shorts",
+      "source_metadata_provenance": "User-provided source CSV; no independent identity/license attestation",
+      "upload_authorization": "User explicitly requested upload and publication of these local files on 2026-11-05",
+      "license": "No additional license asserted; original creator rights retained",
+      "local_source": "/Users/shangbao666/Desktop/人物短视频_5条_20261105/02_女生_Brooke_Monk.mp4",
+      "source_sha256": "8c1d197c2f30183ca5fb5ea41cdc4110bbf09ed598e2096a3fa0a8b6f424a415",
+      "source_bytes": 2132172,
+      "media_sha256": "8c1d197c2f30183ca5fb5ea41cdc4110bbf09ed598e2096a3fa0a8b6f424a415",
+      "media_bytes": 2132172,
+      "media_type": "video/mp4",
+      "media_codec": "avc1",
+      "duration_seconds": 13.7,
+      "media_dimensions": [
+        720,
+        1280
+      ],
+      "tracks": [
+        {
+          "kind": "vide",
+          "codec": "avc1",
+          "duration_seconds": 13.7,
+          "dimensions": [
+            720,
+            1280
+          ]
+        },
+        {
+          "kind": "soun",
+          "codec": "mp4a",
+          "duration_seconds": 13.769
+        }
+      ],
+      "thumbnail_sha256": "96d118d03520c286dc35fa54891c5f62e9208f8feab4da248502423817d63e01",
+      "thumbnail_bytes": 273234,
+      "thumbnail_dimensions": [
+        360,
+        640
+      ],
+      "thumbnail_media_type": "image/png",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/51628a69-1010-5201-b5bc-20346473161f/video.mp4",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/51628a69-1010-5201-b5bc-20346473161f/cover.png",
+      "caption": "Brooke Monk — Which one is best? #dance #shorts #short #dress #love #couple #school\nCreator: Brooke Monk.\nSource: https://www.youtube.com/watch?v=krZt5pSdbmI\nUser-provided video; original audio/video unchanged; real frame cover extracted.",
+      "local_cache_directory": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/51628a69-1010-5201-b5bc-20346473161f",
+      "decoded_review_samples": [
+        {
+          "label": "start",
+          "requested_seconds": 0.5,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/51628a69-1010-5201-b5bc-20346473161f/start.png",
+          "sha256": "d09ed21ce822079a840d4bd7a057714b8b00ca83c3c830018921b7e56af2fd36"
+        },
+        {
+          "label": "middle",
+          "requested_seconds": 6.85,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/51628a69-1010-5201-b5bc-20346473161f/middle.png",
+          "sha256": "9a88e9acefc308ee0f03c9aaeff6b2acd777805ff2ba20abb8fe505c2b25254e"
+        },
+        {
+          "label": "end",
+          "requested_seconds": 13.1,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/51628a69-1010-5201-b5bc-20346473161f/end.png",
+          "sha256": "685fcadc78d5cd1d1f17823be6989c880e3b78c4ece882c21841964ee2542501"
+        }
+      ],
+      "visual_review": "accepted",
+      "audio_review": "Track/container inspected; audio not listened to",
+      "preparation_status": "prepared-awaiting-visual-review",
+      "cover_selection": "Actual video frame chosen by macOS Quick Look",
+      "reviewed_on": "2026-11-05",
+      "review_scope": "Decoded start/middle/end video samples and real cover visually inspected. Ordinary portrait, outfit/dance/selfie scenes; no exhaustive frame-by-frame moderation or audio listening. Creator attribution is supplied by user CSV, not face identification."
+    },
+    {
+      "id": "2e2427e1-3045-5770-8217-f47fe942efa1",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "game_id": null,
+      "content_category": "lifestyle",
+      "title": "Dasha Taran — unforgettable ❤️‍🔥❤️‍🔥",
+      "creator": "Dasha Taran",
+      "source_title": "unforgettable ❤️‍🔥❤️‍🔥",
+      "source_url": "https://www.tiktok.com/@tarankaaa/video/7702436802958855431",
+      "source_date_csv": "20261030",
+      "source_platform": "TikTok",
+      "source_metadata_provenance": "User-provided source CSV; no independent identity/license attestation",
+      "upload_authorization": "User explicitly requested upload and publication of these local files on 2026-11-05",
+      "license": "No additional license asserted; original creator rights retained",
+      "local_source": "/Users/shangbao666/Desktop/人物短视频_5条_20261105/03_女生_Dasha_Taran.mp4",
+      "source_sha256": "99eb43448b8c55942758d3d339d75b3ffcba422b2da37d697016d44ca83a5fca",
+      "source_bytes": 838648,
+      "media_sha256": "99eb43448b8c55942758d3d339d75b3ffcba422b2da37d697016d44ca83a5fca",
+      "media_bytes": 838648,
+      "media_type": "video/mp4",
+      "media_codec": "hvc1",
+      "duration_seconds": 14.767,
+      "media_dimensions": [
+        720,
+        1280
+      ],
+      "tracks": [
+        {
+          "kind": "soun",
+          "codec": "mp4a",
+          "duration_seconds": 14.791
+        },
+        {
+          "kind": "vide",
+          "codec": "hvc1",
+          "duration_seconds": 14.767,
+          "dimensions": [
+            720,
+            1280
+          ]
+        }
+      ],
+      "thumbnail_sha256": "494ce0edea137528ff5af0472ddff5a2fef2efb1dc2356e434f471d013742168",
+      "thumbnail_bytes": 312895,
+      "thumbnail_dimensions": [
+        360,
+        640
+      ],
+      "thumbnail_media_type": "image/png",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/2e2427e1-3045-5770-8217-f47fe942efa1/video.mp4",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/2e2427e1-3045-5770-8217-f47fe942efa1/cover.png",
+      "caption": "Dasha Taran — unforgettable ❤️‍🔥❤️‍🔥\nCreator: Dasha Taran.\nSource: https://www.tiktok.com/@tarankaaa/video/7702436802958855431\nUser-provided video; original audio/video unchanged; real frame cover extracted.",
+      "local_cache_directory": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/2e2427e1-3045-5770-8217-f47fe942efa1",
+      "decoded_review_samples": [
+        {
+          "label": "start",
+          "requested_seconds": 0.5,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/2e2427e1-3045-5770-8217-f47fe942efa1/start.png",
+          "sha256": "b339e5c665ad5b0fbb3a22777249dfd243d40bc2391a849d8048609c2a40902e"
+        },
+        {
+          "label": "middle",
+          "requested_seconds": 7.383,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/2e2427e1-3045-5770-8217-f47fe942efa1/middle.png",
+          "sha256": "b7661a8094a4610d07d5657c9a2e61daae1f2e2547a32b220a110fbfa6df44e0"
+        },
+        {
+          "label": "end",
+          "requested_seconds": 14.167,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/2e2427e1-3045-5770-8217-f47fe942efa1/end.png",
+          "sha256": "69d8de65bd77978ada2f2919e438375243573dcf42862a82e3a2b5b3cc0b2524"
+        }
+      ],
+      "visual_review": "accepted",
+      "audio_review": "Track/container inspected; audio not listened to",
+      "preparation_status": "prepared-awaiting-visual-review",
+      "cover_selection": "Actual video frame chosen by macOS Quick Look",
+      "reviewed_on": "2026-11-05",
+      "review_scope": "Decoded start/middle/end video samples and real cover visually inspected. Ordinary portrait, outfit/dance/selfie scenes; no exhaustive frame-by-frame moderation or audio listening. Creator attribution is supplied by user CSV, not face identification."
+    },
+    {
+      "id": "3f6877fa-0e13-59d4-8316-afafba965d25",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "game_id": null,
+      "content_category": "lifestyle",
+      "title": "Danya Milokhin — TikTok video #7637091746899397906",
+      "creator": "Danya Milokhin",
+      "source_title": "TikTok video #7637091746899397906",
+      "source_url": "https://www.tiktok.com/@danya_milokhin/video/7637091746899397906",
+      "source_date_csv": "20260507",
+      "source_platform": "TikTok",
+      "source_metadata_provenance": "User-provided source CSV; no independent identity/license attestation",
+      "upload_authorization": "User explicitly requested upload and publication of these local files on 2026-11-05",
+      "license": "No additional license asserted; original creator rights retained",
+      "local_source": "/Users/shangbao666/Desktop/人物短视频_5条_20261105/04_男生_Danya_Milokhin.mp4",
+      "source_sha256": "f1b2870391536fb5301e1f41bdf6e21e3e5d34956a7b70b85dac7a215d2e7a2f",
+      "source_bytes": 832246,
+      "media_sha256": "f1b2870391536fb5301e1f41bdf6e21e3e5d34956a7b70b85dac7a215d2e7a2f",
+      "media_bytes": 832246,
+      "media_type": "video/mp4",
+      "media_codec": "hvc1",
+      "duration_seconds": 10.6,
+      "media_dimensions": [
+        720,
+        1280
+      ],
+      "tracks": [
+        {
+          "kind": "soun",
+          "codec": "mp4a",
+          "duration_seconds": 10.61
+        },
+        {
+          "kind": "vide",
+          "codec": "hvc1",
+          "duration_seconds": 10.6,
+          "dimensions": [
+            720,
+            1280
+          ]
+        }
+      ],
+      "thumbnail_sha256": "5d567ddc5ef8f5476332f38a61d66e36944c4e3f41021de683a1b435d7e6325c",
+      "thumbnail_bytes": 262950,
+      "thumbnail_dimensions": [
+        360,
+        640
+      ],
+      "thumbnail_media_type": "image/png",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/3f6877fa-0e13-59d4-8316-afafba965d25/video.mp4",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/3f6877fa-0e13-59d4-8316-afafba965d25/cover.png",
+      "caption": "Danya Milokhin — TikTok video #7637091746899397906\nCreator: Danya Milokhin.\nSource: https://www.tiktok.com/@danya_milokhin/video/7637091746899397906\nUser-provided video; original audio/video unchanged; real frame cover extracted.",
+      "local_cache_directory": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/3f6877fa-0e13-59d4-8316-afafba965d25",
+      "decoded_review_samples": [
+        {
+          "label": "start",
+          "requested_seconds": 0.5,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/3f6877fa-0e13-59d4-8316-afafba965d25/start.png",
+          "sha256": "5d567ddc5ef8f5476332f38a61d66e36944c4e3f41021de683a1b435d7e6325c"
+        },
+        {
+          "label": "middle",
+          "requested_seconds": 5.3,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/3f6877fa-0e13-59d4-8316-afafba965d25/middle.png",
+          "sha256": "cd62edf81624c9de5633c0417f9a6cabaf6a1bee313e00b5f696abdfc9c0aa8a"
+        },
+        {
+          "label": "end",
+          "requested_seconds": 10.0,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/3f6877fa-0e13-59d4-8316-afafba965d25/end.png",
+          "sha256": "8e12658bc0670ff633313e12c1dc9ed29a9c356f9bfd0f388afa9f242ab7f610"
+        }
+      ],
+      "visual_review": "accepted",
+      "audio_review": "Track/container inspected; audio not listened to",
+      "preparation_status": "prepared-awaiting-visual-review",
+      "cover_selection": "Decoded frame from the start review segment, requested at0.5seconds",
+      "reviewed_on": "2026-11-05",
+      "review_scope": "Decoded start/middle/end video samples and real cover visually inspected. Ordinary portrait, outfit/dance/selfie scenes; no exhaustive frame-by-frame moderation or audio listening. Creator attribution is supplied by user CSV, not face identification."
+    },
+    {
+      "id": "d18a4edb-2345-5269-b1ea-7cb96882f31b",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "game_id": null,
+      "content_category": "lifestyle",
+      "title": "Vinnie Hacker — I forgot how to thirst trap",
+      "creator": "Vinnie Hacker",
+      "source_title": "I forgot how to thirst trap",
+      "source_url": "https://www.tiktok.com/@vhackerr/video/7639393995159866638",
+      "source_date_csv": "20260513",
+      "source_platform": "TikTok",
+      "source_metadata_provenance": "User-provided source CSV; no independent identity/license attestation",
+      "upload_authorization": "User explicitly requested upload and publication of these local files on 2026-11-05",
+      "license": "No additional license asserted; original creator rights retained",
+      "local_source": "/Users/shangbao666/Desktop/人物短视频_5条_20261105/05_男生_Vinnie_Hacker.mp4",
+      "source_sha256": "5c15ed4d23236e547892dcecdff81d4ddc705bfd0e01d2c3899605a9a4ad80a6",
+      "source_bytes": 625921,
+      "media_sha256": "5c15ed4d23236e547892dcecdff81d4ddc705bfd0e01d2c3899605a9a4ad80a6",
+      "media_bytes": 625921,
+      "media_type": "video/mp4",
+      "media_codec": "hvc1",
+      "duration_seconds": 10.267,
+      "media_dimensions": [
+        720,
+        1280
+      ],
+      "tracks": [
+        {
+          "kind": "soun",
+          "codec": "mp4a",
+          "duration_seconds": 10.285
+        },
+        {
+          "kind": "vide",
+          "codec": "hvc1",
+          "duration_seconds": 10.267,
+          "dimensions": [
+            720,
+            1280
+          ]
+        }
+      ],
+      "thumbnail_sha256": "3ab0a56111b73ed8dd695a399564fe15df60625da710ec111da411fcaf2fef4a",
+      "thumbnail_bytes": 167432,
+      "thumbnail_dimensions": [
+        360,
+        640
+      ],
+      "thumbnail_media_type": "image/png",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/d18a4edb-2345-5269-b1ea-7cb96882f31b/video.mp4",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/d18a4edb-2345-5269-b1ea-7cb96882f31b/cover.png",
+      "caption": "Vinnie Hacker — I forgot how to thirst trap\nCreator: Vinnie Hacker.\nSource: https://www.tiktok.com/@vhackerr/video/7639393995159866638\nUser-provided video; original audio/video unchanged; real frame cover extracted.",
+      "local_cache_directory": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/d18a4edb-2345-5269-b1ea-7cb96882f31b",
+      "decoded_review_samples": [
+        {
+          "label": "start",
+          "requested_seconds": 0.5,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/d18a4edb-2345-5269-b1ea-7cb96882f31b/start.png",
+          "sha256": "3e44172eb9cbd8e2d8efb77ac9a0e5bd72f2e38343c78eb38b3763dea5818e3f"
+        },
+        {
+          "label": "middle",
+          "requested_seconds": 5.133,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/d18a4edb-2345-5269-b1ea-7cb96882f31b/middle.png",
+          "sha256": "46a89f4c405b1793ad3cb4c673b82db19ce75f2848d448297ecc6559efb83c92"
+        },
+        {
+          "label": "end",
+          "requested_seconds": 9.667,
+          "local_file": "/Users/shangbao666/.codex/private/fl-tiya-ios/creator-clips-2026-11-05/d18a4edb-2345-5269-b1ea-7cb96882f31b/end.png",
+          "sha256": "35a1900b9c1006bce7653d70419c8e18d428a0f6b0080743b59f792dc527b83b"
+        }
+      ],
+      "visual_review": "accepted",
+      "audio_review": "Track/container inspected; audio not listened to",
+      "preparation_status": "prepared-awaiting-visual-review",
+      "cover_selection": "Actual video frame chosen by macOS Quick Look",
+      "reviewed_on": "2026-11-05",
+      "review_scope": "Decoded start/middle/end video samples and real cover visually inspected. Ordinary portrait, outfit/dance/selfie scenes; no exhaustive frame-by-frame moderation or audio listening. Creator attribution is supplied by user CSV, not face identification."
+    }
+  ],
+  "retained_ids": [
+    "084d6071-d274-52b3-8f24-62b731a741cb",
+    "86916319-1668-569a-8fd0-8ff991d483c4",
+    "0266cd87-d7a3-53a6-8a08-6f454c48a6a5",
+    "6920e768-4d0a-5af1-a003-10ea2eeca518",
+    "89630fe1-6fbe-5d05-aafe-6b29afb38fb5"
+  ],
+  "archived_ids": [
+    "57da4558-affa-44e7-8b1f-ae77236ad3fc",
+    "6963e789-64f3-4ca9-8ad8-b31651602692",
+    "92a21b23-6a4f-4671-8619-3a018d8967b4",
+    "df55c5a2-7441-54fa-acd8-8429d331bda9",
+    "efaae809-9e62-5ddb-96bc-eebbe47e2747",
+    "28a87f34-378d-5c97-9e64-b608349a53a4",
+    "bb5f6920-3801-5d4c-8f6e-14c87bcbcbb8"
+  ]
+}

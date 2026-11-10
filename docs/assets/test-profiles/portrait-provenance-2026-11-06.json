@@ -1,0 +1,63 @@
+{
+  "mode": "built-in image_gen",
+  "date": "2026-11-06",
+  "request": "Distinct fictional adult profile portraits for existing FL-Tiya test accounts",
+  "assets": [
+    {
+      "name": "Maya Reed",
+      "slug": "maya-reed",
+      "source_path": "/Users/shangbao666/.codex/generated_images/01a1b01d-c4aa-7ae3-9b3d-80c287918993/exec-53875483-25c2-430d-bcaf-309e477f52c6.png",
+      "workspace_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/test-profiles/avatar-maya-reed.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2467933,
+      "sha256": "ad281e6b8b23d13245a4e50c3863b250b2e026d3826d1ceb3d79b5f7109e7a4e",
+      "prompt": "Use case: photorealistic-natural. Asset type: profile avatar for a fictional game-social-app test account. Create ONE square 1024 by 1024 photorealistic natural head-and-shoulders portrait of a fictional adult woman, about 28, with medium-length wavy chestnut-brown hair, hazel eyes, a relaxed genuine friendly smile, wearing a plain sage-green casual top. Warm natural window light, softly blurred cream-colored indoor background. Centered face, directly facing camera, full forehead, hair and chin visible with generous breathing room for a small circular avatar crop. Realistic skin texture and proportions, candid editorial photography, subtle natural makeup. This person is entirely fictional, not a celebrity or a recognizable real individual. Exactly one person. Opaque full-bleed square photograph. No text, logos, UI, frame, grid, watermarks, helmets, eyewear or other objects. No cartoon or illustration.",
+      "transparent_background": false,
+      "transformed": false,
+      "visual_review": "Passed: one fictional adult, centered full head and shoulders, natural skin texture, distinct appearance and background, full forehead and chin visible, no text/logos/UI/eyewear/helmets."
+    },
+    {
+      "name": "Jade Park",
+      "slug": "jade-park",
+      "source_path": "/Users/shangbao666/.codex/generated_images/01a1b01d-c4aa-7ae3-9b3d-80c287918993/exec-3709707e-85ef-4126-a9c4-de82a91132aa.png",
+      "workspace_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/test-profiles/avatar-jade-park.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2408292,
+      "sha256": "48d120cb43213b96b588f42aecd1cd5780485176027be8cd139e73bd35bc1c27",
+      "prompt": "Use case: photorealistic-natural. Asset type: profile avatar for a fictional game-social-app test account. Create ONE square 1024 by 1024 photorealistic natural head-and-shoulders portrait of a fictional adult East Asian woman, about 26, with short straight black bob hair, brown eyes, and a friendly candid smile, wearing a plain teal hoodie. Softly blurred city cafe background, gentle neutral daylight, distinct facial features and a casual approachable mood. Centered face, directly facing camera, full forehead, hair and chin visible with generous breathing room for a small circular avatar crop. Realistic skin texture and proportions, candid editorial photography, subtle natural makeup. This person is entirely fictional, not a celebrity or a recognizable real individual. Exactly one person. Opaque full-bleed square photograph. No text, logos, UI, frame, grid, watermarks, helmets, eyewear or other objects. No cartoon or illustration.",
+      "transparent_background": false,
+      "transformed": false,
+      "visual_review": "Passed: one fictional adult, centered full head and shoulders, natural skin texture, distinct appearance and background, full forehead and chin visible, no text/logos/UI/eyewear/helmets."
+    },
+    {
+      "name": "Leo Brooks",
+      "slug": "leo-brooks",
+      "source_path": "/Users/shangbao666/.codex/generated_images/01a1b01d-c4aa-7ae3-9b3d-80c287918993/exec-a8b57fbe-2869-41a6-98ad-6727aa8b5d07.png",
+      "workspace_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/test-profiles/avatar-leo-brooks.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2074027,
+      "sha256": "73e2e4e4d66962863c20e6be8d3bbfefb99c612b8c53ef0b2a080f4cbc138214",
+      "prompt": "Use case: photorealistic-natural. Asset type: profile avatar for a fictional game-social-app test account. Create ONE square 1024 by 1024 photorealistic natural head-and-shoulders portrait of a fictional adult Black man, about 28, with close-cropped curly black hair, brown eyes, very light neatly groomed facial stubble, a relaxed friendly expression and warm smile, wearing a plain dark casual shirt. Warm softly blurred indoor background, natural side-window light. Centered face, directly facing camera, full forehead, hair and chin visible with generous breathing room for a small circular avatar crop. Realistic skin texture and proportions, candid editorial photography. This person is entirely fictional, not a celebrity or a recognizable real individual. Exactly one person. Opaque full-bleed square photograph. No text, logos, UI, frame, grid, watermarks, helmets, eyewear or other objects. No cartoon or illustration.",
+      "transparent_background": false,
+      "transformed": false,
+      "visual_review": "Passed: one fictional adult, centered full head and shoulders, natural skin texture, distinct appearance and background, full forehead and chin visible, no text/logos/UI/eyewear/helmets."
+    },
+    {
+      "name": "Nina Vega",
+      "slug": "nina-vega",
+      "source_path": "/Users/shangbao666/.codex/generated_images/01a1b01d-c4aa-7ae3-9b3d-80c287918993/exec-3284912c-851c-4a85-ac35-9412b9e3ed28.png",
+      "workspace_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/test-profiles/avatar-nina-vega.png",
+      "width": 1254,
+      "height": 1254,
+      "bytes": 2374506,
+      "sha256": "06537e202f15cc306adf060aa9d07adfa85234228158a039ae2a254d1d30f6cd",
+      "prompt": "Use case: photorealistic-natural. Asset type: profile avatar for a fictional game-social-app test account. Create ONE square 1024 by 1024 photorealistic natural head-and-shoulders portrait of a fictional adult Latina woman, about 27, with shoulder-length dark curly hair, warm brown eyes, a confident friendly smile, wearing a plain muted-purple casual top. Soft dusky-blue blurred background, flattering natural daylight. Centered face, directly facing camera, full forehead, hair and chin visible with generous breathing room for a small circular avatar crop. Realistic skin texture and proportions, candid editorial photography, subtle natural makeup. This person is entirely fictional, not a celebrity or a recognizable real individual. Exactly one person. Opaque full-bleed square photograph. No text, logos, UI, frame, grid, watermarks, helmets, eyewear or other objects. No cartoon or illustration.",
+      "transparent_background": false,
+      "transformed": false,
+      "visual_review": "Passed: one fictional adult, centered full head and shoulders, natural skin texture, distinct appearance and background, full forehead and chin visible, no text/logos/UI/eyewear/helmets."
+    }
+  ]
+}

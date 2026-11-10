@@ -1,0 +1,54 @@
+{
+  "project_ref": "gpstwmffctwqlcakmvgw",
+  "cohort": "development",
+  "fixture_set": "community-test-players-2026-11-06",
+  "expires_at": "2026-12-03T09:41:43.681393Z",
+  "purpose": "Fictional developer-only community members for real persisted Apply friend tests. No automatic acceptance, no production identities and no fabricated activity.",
+  "game_ids": [
+    "zenless-zone-zero",
+    "minecraft",
+    "pubg-mobile",
+    "zero-ad",
+    "minetest",
+    "supertuxkart",
+    "freedoom",
+    "bobs-game",
+    "guacamelee",
+    "manifold-garden",
+    "fantastic-contraption",
+    "push-me-pull-you"
+  ],
+  "players": [
+    {
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "label": "Development TEST Ember",
+      "handle": "test_ember",
+      "display_name": "[TEST] Ember",
+      "bio": "Fictional test account for friend-request testing. Manual acceptance only. Explorer playstyle; development data only.",
+      "playstyle": "Explorer: discovery and casual sessions"
+    },
+    {
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "label": "Development TEST Harbor",
+      "handle": "test_harbor",
+      "display_name": "[TEST] Harbor",
+      "bio": "Fictional test account for friend-request testing. Manual acceptance only. Co-op playstyle; development data only.",
+      "playstyle": "Co-op: teamwork and relaxed sessions"
+    },
+    {
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "label": "Development TEST Summit",
+      "handle": "test_summit",
+      "display_name": "[TEST] Summit",
+      "bio": "Fictional test account for friend-request testing. Manual acceptance only. Strategy playstyle; development data only.",
+      "playstyle": "Strategist: planning and skill practice"
+    }
+  ],
+  "cleanup": {
+    "owned_game_cards": 36,
+    "identity_scope": "Only the three user IDs in this manifest. Retiring their private reservations removes directory eligibility; exact-ID Auth deletion is a separate admin operation.",
+    "preserve": "Development Alpha, Development Beta, experience and production accounts, and clips outside the exact ten-post publisher-transfer manifest. The three fixture accounts now own those ten approved test clips; retiring or deleting fixtures affects their feed visibility.",
+    "owned_home_video_posts": 10,
+    "publisher_transfer_manifest": "development-clip-publishers-2026-11-06.json"
+  }
+}

@@ -1,0 +1,13 @@
+Generated with the built-in image_gen tool. Fictional adult subject.
+Original PNG preserved unchanged; assigned only to Development Alpha.
+
+Final prompt:
+Use case: photorealistic-natural
+Asset type: square user profile avatar for a gaming social app, final production image.
+Primary request: a believable photographic head-and-shoulders portrait of one fictional adult man around 30 years old, friendly and quietly confident, looking at the camera with a natural slight smile.
+Scene/backdrop: softly blurred midnight navy background with a very subtle teal ambient glow, simple and uncluttered.
+Subject: a handsome ordinary adult man, short naturally styled dark brown hair, light neatly kept stubble, natural facial proportions, dark navy casual crew-neck shirt. No props.
+Style/medium: realistic editorial portrait photograph, natural skin pores and texture, authentic hair, clean sharp eyes; no illustration or plastic beauty retouching.
+Composition/framing: perfectly square image, centered face and head-and-shoulders, complete hair and chin visible, ample surrounding margin so a circular avatar crop keeps the whole face comfortably inside. Eye level camera, soft 85mm portrait lens look.
+Lighting/mood: soft flattering daylight from front left with gentle cool ambient fill, approachable and relaxed.
+Constraints: completely fictional person, not a celebrity or recognizable real person. No helmets, headphones, text, logo, watermark, UI, border or extra people.

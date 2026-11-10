@@ -1,0 +1,35 @@
+# Sparks Payments Design
+
+Date: 2026-11-03. Root: `/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios`.
+
+## Intent and scope
+Implement the already discussed nine consumable Sparks packs using native Apple in-app purchase. Connect Profile > Sparks to a wallet, pack catalog and recent account activity. A purchase becomes delivered only after server verification and an atomic, idempotent wallet credit. This increment covers recharge, delivery retry and verified refund accounting; avatar-frame spending and activities remain separate features.
+
+## Decisions and constraints
+SwiftUI, Swift 5, iOS 17 and Supabase remain unchanged. StoreKit 2 is a system framework. Use localized App Store product prices for actual purchase buttons. Draft USD prices are references, never charge amounts. The confirmed pack amounts are 400/800/2450/5150/10800/16800/29400/42700/63700, at draft USD 0.99/1.99/4.99/9.99/19.99/29.99/49.99/69.99/99.99 respectively.
+
+Apple native consumables fit the existing iOS virtual-currency flow. External checkout would introduce a different payment product; local balance increments cannot establish paid delivery. The implementation choice is StoreKit 2 plus an authenticated direct HTTPS Apple Get Transaction Info lookup. The official Node SignedDataVerifier was rejected after primary-source inspection showed missing X509 APIs in the current Supabase runtime.
+
+The user authorized implementing payments. No Apple Developer account, production bundle ID, App Store numeric ID or registered products exists yet. Seed the nine packs inactive, with null product IDs. Server settings start disabled and unset. Do not invent registered IDs, fake payments, an Apple account or successful live testing. Preview stays offline with explicitly labeled draft packs and an unavailable balance.
+
+No iOS build, type check, XCTest execution, launch, simulator, commit, push, app publishing, paid upgrade or real purchase is authorized. Backend code deployment to the existing FL-Tiya project is authorized. Never persist secret/service-role keys or signed receipts in client logs or repository fixtures.
+
+## Native flow
+An app-scoped payment store shares the authenticated Supabase client, but never a simulated account. Load `payment_state` for the verified user, then StoreKit `Product` objects for configured pack IDs. Show balance, optional refund adjustment, pack grid, refresh/retry controls and recent wallet activity. Disable purchasing until the server enables it and a real consumable Product is available.
+
+Each purchase uses `.appAccountToken(verifiedUserUUID)`. Reject unverified StoreKit results. Forward the verified result's JWS to `verify-apple-purchase`; trust only the server's credit response. Handle user cancellation, pending approval, unavailable products, verification failure and uncertain delivery separately. Finish a transaction only after server delivery acknowledgement (including an already credited or refunded transaction). Observe `Transaction.updates`, retry `Transaction.unfinished` after login/foreground/manual retry, retain unfinished transactions across network failures, and never finish another account's transaction. Generation/user guards prevent late callbacks changing another session's wallet.
+
+## API contract
+`payment_state()` returns `{environment, purchases_enabled, wallet:{sparks,refund_debt_sparks}, packs:[{id,name,sparks,store_product_id,is_active,reference_price_usd,sort_order}], history:[{id,delta,reason,created_at}]}`. It requires the existing live Apple session/account checks and only returns the actor's wallet/history. History is newest 50 entries. Production and Sandbox wallets/history are separate.
+
+`verify-apple-purchase` accepts POST `{signed_transaction}` with a user access token. Success returns `{environment,transaction_id,disposition,credited_sparks,wallet:{sparks,refund_debt_sparks}}`, with disposition `credited`, `already_credited` or `refunded`. No request accepts a client-supplied balance, credit amount or beneficiary.
+
+The incoming JWS is an untrusted routing hint for a numeric transaction ID. The backend signs Apple's ES256 API request using Edge-only private-key/issuer/key-ID secrets and fetches the fixed Apple HTTPS endpoint with redirects disabled. Only the payload returned through that authenticated TLS connection is authoritative. This is an explicit HTTPS provenance design, not an implementation or claim of independent JWS certificate-chain verification. Validate exact requested transaction ID, configured bundle/environment, Consumable type, quantity 1, PURCHASED ownership, UUID appAccountToken and revocation state. Verify the current Auth user and its session, then match appAccountToken. Xcode local test transactions are never accepted by the live server. Missing settings/secrets fail closed. JWS values are transient; store only the verified transaction facts. Sandbox accounting is isolated in a separate wallet and ledger environment; it cannot grant production units.
+
+## Atomic delivery and refunds
+Service-only database operations serialize by environment/transaction ID and lock the wallet. The server catalog determines the amount, including retired known products so already paid transactions can finish. Preserve transaction uniqueness after account deletion. Repeated submissions are harmless; a transaction cannot move to another user. The session/account must still be active at credit time.
+
+`apple-payment-notifications` requires a high-entropy server-configured notification URL token before any database or Apple lookup, then accepts a bounded notification solely as an untrusted routing hint and queries the current transaction from Apple. It never applies a notification's claimed type, account, amount or timestamp. Current revocation state and signedDate from the authoritative Apple API response drive idempotent refund/reversal reconciliation. Unknown active transactions are recorded without a credit; only authenticated delivery credits the original purchase. Refunds received before client delivery leave a tombstone so later delivery cannot credit a refunded purchase. Refund reversals restore an already delivered credit once. Older API snapshots cannot overwrite newer state. Refunds debit available Sparks; any already spent part becomes a separate refund adjustment, offset by future credits. The wallet stays nonnegative.
+
+## Verification and handoff
+Exercise database identity/session checks, duplicate delivery, cross-account replay, retired products, refunds before/after delivery, duplicate/out-of-order refund events, reversal and permissions using rollback fixtures. Exercise invalid/untrusted JWS and unauthenticated function requests. Run existing metadata/plist/Swift grammar verification and source review. Document exact deployed migrations/functions and setup steps. Real StoreKit UI, sandbox purchasing, Apple login and production verification remain unverified until Apple configuration and explicit native test authorization are available.

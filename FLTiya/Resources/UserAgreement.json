@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "document_version": "2026-11-09-draft-2",
+  "title": "FL-Tiya User Agreement",
+  "status": "draft",
+  "effective_date": null,
+  "contact": "fltiya.support@gmail.com",
+  "notice": "Development draft. The legal operator, supported regions, age requirements and effective date must be finalized before public release. This draft is not yet effective.",
+  "sections": [
+    {
+      "id": "service",
+      "title": "1. About FL-Tiya",
+      "text": "FL-Tiya is a gaming community for discovering game clips and guides, sharing player profiles and game cards, and connecting with other players. These draft terms describe responsible use of the service. Some features depend on service configuration and may be unavailable. A preview, development account or test purchase does not establish that a feature is available in a public release."
+    },
+    {
+      "id": "account",
+      "title": "2. Your account and access",
+      "text": "Before continuing, check the box to accept this agreement and acknowledge the Privacy Policy. Device sign-in creates an account without an email address, password or verification code. You can use this account while the app retains its saved session. If you sign out, clear the app’s saved sign-in data or switch devices, you cannot recover it. Use Delete Account in Settings before signing out if you want the account deleted. Sign in with Apple is a separate option where available. Do not impersonate others or misrepresent your affiliation."
+    },
+    {
+      "id": "profiles",
+      "title": "3. Profiles, games and third-party content",
+      "text": "Profile details and game cards you save may be visible to other permitted signed-in players. A saved game card places you in that game's community; it does not verify a game account, rank or identity. Share only information you have permission to disclose. Game names, artwork, clips and external guides may belong to their respective owners. Their presence does not mean those owners sponsor or endorse FL-Tiya. External sites and services have their own terms."
+    },
+    {
+      "id": "connections",
+      "title": "4. Follows, friendships and messages",
+      "text": "Following a player does not make you friends or grant calling access. A friendship requires an accepted friend request. While not friends, each player may send one introductory text message to the other. Each sender has this allowance once for that pair, not once per day or per conversation. Messages sent while friends do not use the allowance. Removing a friend, deleting a conversation, following or unblocking does not reset a used introduction. Respect a player who does not reply. Do not create accounts to evade limits or blocks. Friends may continue messaging while their connection and account access allow it. Blocking prevents further friend requests, messages and calls between the two players."
+    },
+    {
+      "id": "calls",
+      "title": "5. Voice and video calls",
+      "text": "Calls require a current friendship and a configured calling service. They remain unavailable while setup is incomplete. When available, microphone access is needed for voice, and camera access is also needed for video. Calls end when the app enters the background, you sign out or the friendship is removed. This version does not provide call recording. Do not record or share another person's voice, image or private conversation without the permissions required by applicable law. FL-Tiya is not an emergency calling service."
+    },
+    {
+      "id": "conduct",
+      "title": "6. Community rules",
+      "text": "FL-Tiya does not tolerate objectionable content or abusive behavior. Do not post or send harassment, threats, hate speech, sexually explicit material, child sexual abuse or exploitation material, non-consensual intimate imagery, or content promoting violence or unlawful activity. Do not stalk, scam, spam, expose someone's private information, target someone because of a protected characteristic, or encourage self-harm. Do not upload malware, interfere with the service, gain unauthorized access, or bypass safety controls. These rules apply to profiles, avatars, game cards, clips, comments, messages and calls."
+    },
+    {
+      "id": "content-rights",
+      "title": "7. Your content and permissions",
+      "text": "You keep the rights you hold in content you submit. Submit only content you own or have permission to use, including gameplay footage, music, images and other people's likenesses. While your content is retained for the service, you grant the operator a non-exclusive permission to host, store, process, display and deliver it for the features you use and to review it for safety. This permission does not transfer ownership or authorize unrelated advertising use. Publicly displayed content may be seen or copied by others. Removing an original cannot remove copies other people have made."
+    },
+    {
+      "id": "safety",
+      "title": "8. Reporting, blocking and moderation",
+      "text": "Use the flag icon to report a video, comment or player from a conversation. Reporting a video or comment hides that item for you. Reporting a player from a conversation hides that player and their content for you. Reports are kept for review. For other concerns, including rights concerns, contact fltiya.support@gmail.com and include enough information to locate the issue. Do not send passwords or unnecessary sensitive information. You can block a player from their profile and manage blocks in Settings > Blacklist. Blocking hides the player's profile and content. Unblocking does not restore a friendship or undo a report. Clips and comments can be held for review; only approved material is shown to other permitted users. Content may be rejected or removed for violating these rules, others' rights or applicable law. Contact Support about a moderation concern."
+    },
+    {
+      "id": "purchases",
+      "title": "9. Sparks and Apple purchases",
+      "text": "Live Sparks purchases are unavailable until Apple configuration and testing are complete, and are not available to unrecoverable device accounts. Where enabled, Sparks are virtual items for FL-Tiya, not money or a promise of cash value. The Apple purchase sheet shows the price and payment details before you confirm. Delivery depends on transaction verification; use Retry purchase delivery if confirmation is delayed. Test Sparks and local test balances are separate from live balances and do not involve real charges. Refund eligibility is governed by Apple's applicable terms and your consumer rights; Apple's refund help is linked below. Refunded transactions may result in a corresponding wallet adjustment. This version does not offer auto-renewing subscriptions."
+    },
+    {
+      "id": "privacy-deletion",
+      "title": "10. Privacy, signing out and deletion",
+      "text": "Read the Privacy Policy for account information, service providers, permissions and retained records. Sign Out ends access on this device and is separate from account deletion. Settings > Delete Account lets device accounts, supported existing password accounts and reserved development accounts request permanent deletion of their account and uploaded content. Cleanup can require a retry. Separate payment, security and service-cleanup records, and copies already cached by devices or providers, may remain as described in the Privacy Policy. Apple-linked deletion depends on the required Apple authorization-revocation setup. Deleting an app account does not automatically refund an Apple purchase; contact Apple about eligible charges."
+    },
+    {
+      "id": "availability-rights",
+      "title": "11. Availability and your rights",
+      "text": "Features, community content and external services can change or become unavailable. Player profiles and game information are not a guarantee of identity, skill, safety or accuracy. No term in this draft excludes consumer rights or other rights that cannot lawfully be waived. The applicable app license supplied through the App Store, including Apple's Standard EULA where applicable, is separate from these community and service terms. No governing law, dispute forum or liability limit is specified in this unfinished draft."
+    },
+    {
+      "id": "changes-contact",
+      "title": "12. Changes and contact",
+      "text": "A finalized agreement must identify the legal operator, eligible audience, supported regions and effective date. Material changes will be identified in the document version and communicated as required before they take effect. Questions about this draft, your account, content or safety can be sent to fltiya.support@gmail.com. The same address is available from Settings > Support."
+    }
+  ]
+}

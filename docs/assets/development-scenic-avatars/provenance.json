@@ -1,0 +1,557 @@
+{
+  "scope": "Fictional development accounts only",
+  "images": [
+    {
+      "id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "name": "Jade Park",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "69.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/jade-park.jpg",
+      "avatar_sha256": "949742de45f003b4bde5b09f205a898353a1a776a497f575216265deaafc9bbb"
+    },
+    {
+      "id": "d7d26b64-6b3d-5715-a78d-49a172682120",
+      "name": "Tessa Morgan",
+      "source_url": "https://www.pexels.com/photo/man-in-jacket-standing-on-hilltop-over-lake-20447470/",
+      "label": "Turquoise crater lake overlook",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "photographer": "Suta Rahady",
+      "crop": {
+        "x": 0.5,
+        "y": 0.42
+      },
+      "source_sha256": "7289dd6b44187f06e623a02ee620fd8815ea45ebb9f2b6774bf44ca2affefb4b",
+      "local_file": "docs/assets/development-scenic-avatars/tessa-morgan.jpg",
+      "avatar_sha256": "7f99430aed414a213cf34a005cf4986a8fabb1a7da0879b787935d234eff9405"
+    },
+    {
+      "id": "864c4d79-7101-51c3-8a47-8aee6df1155c",
+      "name": "Kai Lin",
+      "source_url": "https://unsplash.com/photos/ocean-waves-crash-against-rugged-coastal-cliffs-at-sunset-IQJEiVUBeZs",
+      "label": "海岸日落 — Ivan Rohovchenko，Unsplash",
+      "license_url": "https://unsplash.com/license",
+      "category": "scenery",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "12fe2185ac320b04dbf60cb083d3cdcfc3184c524ff702af8b74f5667f8e798b",
+      "local_file": "docs/assets/development-scenic-avatars/kai-lin.jpg",
+      "avatar_sha256": "a520a094293d4675135eeba9349085149999ccc75bd3d4e085d7afc198627034"
+    },
+    {
+      "id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "name": "Leo Brooks",
+      "source_url": "https://www.pexels.com/photo/aerial-view-of-a-road-near-the-snowy-mountains-13074486/",
+      "label": "雪山湖畔公路 — Nicholas Ang，Pexels",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "9e8b7005a19e1487a95859a321c5b6cf6311cab7f954502d6c831aecc1b80c9d",
+      "local_file": "docs/assets/development-scenic-avatars/leo-brooks.jpg",
+      "avatar_sha256": "bd8034038bcdd8b48c670013ca073c51731328eb541f0f93af2d4920180b613f"
+    },
+    {
+      "id": "17dcccdf-50cf-5e79-ba6d-14693bcea1c0",
+      "name": "Zara Hayes",
+      "source_url": "https://www.pexels.com/photo/back-view-of-a-woman-wearing-jacket-and-beanie-hat-14791467/",
+      "label": "秋林背影 — Mathias Reding，Pexels",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "fe088c546c2972252aa36072f8a58cfe04693abffebe507050f66c4ca9de91f5",
+      "local_file": "docs/assets/development-scenic-avatars/zara-hayes.jpg",
+      "avatar_sha256": "ab8827e4d6c5ce4aacbed5c115eb5e952091aba0cfa625b95c69a31ada2063c2"
+    },
+    {
+      "id": "a6aff5c5-0e13-5a56-bf28-41685cb89100",
+      "name": "Marcus Reed",
+      "source_url": "https://unsplash.com/photos/airplane-wing-and-clouds-seen-from-a-window-ezyImh0IxOU",
+      "label": "飞机窗外 — Lawrence Chismorie，Unsplash",
+      "license_url": "https://unsplash.com/license",
+      "category": "lifestyle",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "13cbedf7ef00a3012e53635ab6f36f0d534dac34248d8b52e7204b21664af505",
+      "local_file": "docs/assets/development-scenic-avatars/marcus-reed.jpg",
+      "avatar_sha256": "73e406800e1534007bc3c3e4719e77963bb79674abf1c511d24db1ac52790008"
+    },
+    {
+      "id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "name": "Nina Vega",
+      "source_url": "https://www.pexels.com/photo/man-standing-atop-green-peak-overlooking-mountain-valley-16688865/",
+      "label": "绿山徒步 — Pexels",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "01ea57341c0efcd742d478184cfba7d9fab619173785ec14adb5e297f15f73a5",
+      "local_file": "docs/assets/development-scenic-avatars/nina-vega.jpg",
+      "avatar_sha256": "4e3ca1eb924f8d401fbf6ebefe9d48adbe0756ce5dac8082c0a3cdc66eea354c"
+    },
+    {
+      "id": "1c1594bf-d7f4-5d06-8bb9-be3507e9ea48",
+      "name": "Owen Brooks",
+      "source_url": "https://www.pexels.com/photo/turquoise-lake-in-mountains-20807098/",
+      "label": "Moraine Lake",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "James Wilson",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "44311cd24ea76db05f47ddec2d9ea9832f860899d12ab183d4f98a5329da28e5",
+      "local_file": "docs/assets/development-scenic-avatars/owen-brooks.jpg",
+      "avatar_sha256": "4c6253077ea2b26c5840bde1627db457c99d9378b39f68dba4234a32d6a2d719"
+    },
+    {
+      "id": "e7e975f1-b08a-596d-8df8-df9f5bdda8c1",
+      "name": "Chloe Bennett",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "65.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/chloe-bennett.jpg",
+      "avatar_sha256": "7373ce777ea93d755811c96571d3ad38176dae5c1385ec45822db66052ff4d13"
+    },
+    {
+      "id": "ccfc933b-dba2-55ef-92ee-47ab6fe85467",
+      "name": "Ava Sterling",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "56.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/ava-sterling.jpg",
+      "avatar_sha256": "231f026db559838e7e92d1e025f2e6e31a389888e9c1ffba9986c65230c86d8d"
+    },
+    {
+      "id": "e53c8f39-87c4-5d03-b324-722c2044301c",
+      "name": "Felix Quinn",
+      "source_url": "https://www.pexels.com/photo/cityscape-during-nighttime-990112/",
+      "label": "Taipei After Dark",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "Tony",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "3f500ce00942215064ff27c40170d39401a50e02f0ff296c91c213aef34a17ac",
+      "local_file": "docs/assets/development-scenic-avatars/felix-quinn.jpg",
+      "avatar_sha256": "29e810182b19385e53f1033f59599aaec0faa27e00159cedb08a6a34f7ca827c"
+    },
+    {
+      "id": "4db6ec84-3240-5fb7-8de6-95ad6bda6191",
+      "name": "Sofia Hart",
+      "source_url": "https://unsplash.com/photos/silhouette-of-a-person-standing-by-the-ocean-at-sunset-EOwtGsXY5Zc",
+      "label": "海边剪影 — Rafael Garcin，Unsplash",
+      "license_url": "https://unsplash.com/license",
+      "category": "back",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "ac1543b4a14f1e775c3ed26fb58554348400db4e9fa800f838fb37681410f51f",
+      "local_file": "docs/assets/development-scenic-avatars/sofia-hart.jpg",
+      "avatar_sha256": "13640a39703c4f7222484995120addce9cc25427b0470048bf94982ba6c4619d"
+    },
+    {
+      "id": "256e3201-3934-5ae7-804a-02186ad08eec",
+      "name": "Diego Cruz",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "13.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/diego-cruz.jpg",
+      "avatar_sha256": "a43fb8b589281fd05b2bae6d7e52ac3eb75b2a3053a6e6f179227fa2cadd56dd"
+    },
+    {
+      "id": "42f543fd-aa4b-5b36-9d83-9f0dae503523",
+      "name": "Ruby Navarro",
+      "source_url": "https://unsplash.com/photos/a-cat-sits-in-sunlight-by-a-window-zXAywM-mt28",
+      "label": "窗边的猫 — Bruno Guerrero，Unsplash",
+      "license_url": "https://unsplash.com/license",
+      "category": "lifestyle",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "720f311ede11bf6c9db9de6c99c67b7231d6d19268652533e6ec2da17362959b",
+      "local_file": "docs/assets/development-scenic-avatars/ruby-navarro.jpg",
+      "avatar_sha256": "8b01c9c5146b161942aa01ba655dd19c5f9c616c8f835859eabf0c6352101b6d"
+    },
+    {
+      "id": "64428a1b-6ad1-5461-baf2-7f50d94b4b20",
+      "name": "Max Turner",
+      "source_url": "https://www.pexels.com/photo/empty-road-in-mountains-at-dusk-13925433/",
+      "label": "Mountain Road at Dusk",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "Ahsan Riaz",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "5d6e51ad2e5c3ea863a9d58fad7261de38fff258b1668b1d54dde59d7b3ce49d",
+      "local_file": "docs/assets/development-scenic-avatars/max-turner.jpg",
+      "avatar_sha256": "fcc7d6fe28878dbd5500c06d335f3af92913e4b99f785dd8679f7271ef09895b"
+    },
+    {
+      "id": "2a92931a-1e2a-5ba8-8149-17c2fd3dc9ed",
+      "name": "Adrian Vale",
+      "source_url": "https://unsplash.com/photos/snowy-mountains-overlook-a-bright-blue-glacial-lake-hbMAm2qeWWo",
+      "label": "雪山蓝湖 — Jimmy Liu，Unsplash",
+      "license_url": "https://unsplash.com/license",
+      "category": "scenery",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "1ced0131ae82a28c8451ce01bb64bbfd2823d2741203c1cec13af4fd83c7ff99",
+      "local_file": "docs/assets/development-scenic-avatars/adrian-vale.jpg",
+      "avatar_sha256": "779d7cc58d98efd2ef922e00eb29551a2b62b98027bc727a0d79fdcc836860b6"
+    },
+    {
+      "id": "1df93ea1-76a7-5d65-8841-bc22a4cff5df",
+      "name": "Amara Blake",
+      "source_url": "https://www.pexels.com/photo/back-view-of-a-person-walking-down-the-mountain-trail-23174923/",
+      "label": "Evergreen mountain trail",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "photographer": "Janna Sever",
+      "crop": {
+        "x": 0.5,
+        "y": 0.28
+      },
+      "source_sha256": "79dd74c6eb109cb80c956f60686e064e9d6c54266d22c7ae6ba87ed21b565a79",
+      "local_file": "docs/assets/development-scenic-avatars/amara-blake.jpg",
+      "avatar_sha256": "4225cff113e1e35aa3046eaf7add8d596a5c0053fb088b5564e7ebe1d80234b1"
+    },
+    {
+      "id": "a743fd72-2c02-55d0-b5c0-16514d005e05",
+      "name": "Theo Grant",
+      "source_url": "https://www.pexels.com/photo/close-up-of-skateboarding-4454961/",
+      "label": "Skateboarding",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "lifestyle",
+      "photographer": "Christopher Luna",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "f4dbfdbe28c0dd324725d7b1c066616846d5cf18209005d2fac92dc50041a139",
+      "local_file": "docs/assets/development-scenic-avatars/theo-grant.jpg",
+      "avatar_sha256": "a22609c679c2b3e0b1aebd9df50cb4fc9e4ea238ea719c6c875df2aa01ac41d7"
+    },
+    {
+      "id": "ab1404ba-918b-5eb8-9e65-3a280321e1c7",
+      "name": "Poppy Lane",
+      "source_url": "https://www.pexels.com/photo/green-palm-tree-under-blue-sky-and-pink-clouds-7770861/",
+      "label": "Pink Clouds and Palm",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "Hongzheng Tian",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "97ab4e057ee2c07ac0426208fa923cb36bd550aa9b3bac4e3b2c8d79f6ff0986",
+      "local_file": "docs/assets/development-scenic-avatars/poppy-lane.jpg",
+      "avatar_sha256": "9bf2cd88dba84d031e7921086946b6e0d378313a4c2c9ed70824455a872a614f"
+    },
+    {
+      "id": "64626c14-0111-5c75-852d-fc569c55620e",
+      "name": "Noah Wells",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "55.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/noah-wells.jpg",
+      "avatar_sha256": "2e12cc2ef34ad80e70dac6c72a5fa4d547b929ae9e38297d89c1a7475899d9d2"
+    },
+    {
+      "id": "54ea5a01-bbcc-5349-940c-a58264b628ed",
+      "name": "Isla Fox",
+      "source_url": "https://www.pexels.com/photo/back-view-of-a-person-sitting-on-the-bicycle-13799227/",
+      "label": "Cyclist on a forest path",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "photographer": "Markus Spiske",
+      "crop": {
+        "x": 0.5,
+        "y": 0.47
+      },
+      "source_sha256": "6d15a5b9067965ec3ed660f2580c31741352fd5bd410da6fada1c379cc014378",
+      "local_file": "docs/assets/development-scenic-avatars/isla-fox.jpg",
+      "avatar_sha256": "c0815141821ceed08f9d935428061f312081cca35be60b99ea8c085ce5a854c0"
+    },
+    {
+      "id": "919c7892-d739-581b-8df0-9ff8d75c51c7",
+      "name": "Milo Stone",
+      "source_url": "https://www.pexels.com/photo/scenic-view-of-rocky-cliff-and-clear-blue-mediterranean-sea-31994975/",
+      "label": "Turquoise Mediterranean",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "Burçin Altınyay",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "3aea003302707afa5e2af81a1fe453d7e19a15d2f0ea997192cbfe9054d83bc6",
+      "local_file": "docs/assets/development-scenic-avatars/milo-stone.jpg",
+      "avatar_sha256": "4824ee130175739d8f882cc005670770d8870275f3034c4d1e519f4f7c553212"
+    },
+    {
+      "id": "1f3a575d-5ba3-5073-98ae-7b1b5af41850",
+      "name": "Aria Finch",
+      "source_url": "https://www.pexels.com/photo/rainy-evening-stroll-with-transparent-umbrella-40352239/",
+      "label": "雨伞背影 — Pexels",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "67c8751b3c16b1c3ef5bcd4c02aca01a1440068f06696a0864366c0fe1fe5162",
+      "local_file": "docs/assets/development-scenic-avatars/aria-finch.jpg",
+      "avatar_sha256": "a11aa75275cb2e4b4d4ed08e25a173075cb2f46388b05852703191f433f63ba9"
+    },
+    {
+      "id": "499cdd5d-28f4-58ae-befe-eb13bd0fcc31",
+      "name": "Ben Ellis",
+      "source_url": "https://www.pexels.com/photo/a-person-holding-a-cup-of-a-coffee-6023633/",
+      "label": "雨窗咖啡 — Dhaya Eddine Bentaleb，Pexels",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "lifestyle",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "c5559ace31b6581e43c4feacd7ac1c4f8a4f9a1a9dcd63cec5c55d0cc40d33c7",
+      "local_file": "docs/assets/development-scenic-avatars/ben-ellis.jpg",
+      "avatar_sha256": "b7a4934edea1a9f64bd03ffa553fa2eeae452aeb5db2ca051873865a812ef263"
+    },
+    {
+      "id": "dc7e5f57-b1ed-5c06-bf84-5fec2ce9635a",
+      "name": "Luca West",
+      "source_url": "https://www.pexels.com/photo/milky-way-on-night-sky-over-hills-and-lake-22940251/",
+      "label": "Starry Lake",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "Horacio Lander",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "15fdb1950eb4214a3a5b62c5c830b4a48040a06d65c67e5d5652d11cd96b5706",
+      "local_file": "docs/assets/development-scenic-avatars/luca-west.jpg",
+      "avatar_sha256": "b77f05525c5c96490628a5da81241aaee7df73cb6573a42986bed5e52785b218"
+    },
+    {
+      "id": "5b0dc3ad-4518-55d0-8488-3628d86cacdf",
+      "name": "Emma Rowan",
+      "source_url": "https://www.pexels.com/photo/person-sitting-on-rooftop-overlooking-nyc-skyline-at-night-36244039/",
+      "label": "Rooftop over New York",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "photographer": "Yura Forrat",
+      "crop": {
+        "x": 0.5,
+        "y": 0.44
+      },
+      "source_sha256": "f58057dc4db440bdedd2cbab479c8294ea8cbd6c1bf4c9f7ef32de5a00db200d",
+      "local_file": "docs/assets/development-scenic-avatars/emma-rowan.jpg",
+      "avatar_sha256": "903952f05f90dad260a5384471eacb89021c8cd908f03602f63a1ef978674720"
+    },
+    {
+      "id": "59bc0e8f-d247-582f-856d-6f3ed13de457",
+      "name": "Ezra Cole",
+      "source_url": "https://unsplash.com/photos/people-walk-down-a-wet-neon-lit-city-street-at-night-6GRL8viFTwo",
+      "label": "雨夜街景 — Intrepid，Unsplash",
+      "license_url": "https://unsplash.com/license",
+      "category": "scenery",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "3b3a1a6b4491bdd1f7e2d1d61fa2acde145c73eb87cff8874e6217582fff5c5b",
+      "local_file": "docs/assets/development-scenic-avatars/ezra-cole.jpg",
+      "avatar_sha256": "f63fd4945989eb80c94f6c6c8fe4dc4f5d4931c3b4068a5ca06b5aab7921b17e"
+    },
+    {
+      "id": "3660aa03-79e5-5e53-a8dc-e9e8fe0c29c0",
+      "name": "Iris Shaw",
+      "source_url": "https://www.pexels.com/photo/waves-crashing-on-rocks-at-seashore-14262358/",
+      "label": "Surf at Sunset",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "David McElwee",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "5e15c041b27b870af29f390f40c327d117acc446a29c7a3f1331204ac207dd69",
+      "local_file": "docs/assets/development-scenic-avatars/iris-shaw.jpg",
+      "avatar_sha256": "0a025399ebe89b776ab672891365929dba52db7f5a262e18332040ecc236d0e6"
+    },
+    {
+      "id": "73942806-20d7-54c8-bc77-1419d1bd9d7c",
+      "name": "Sam Archer",
+      "source_url": "https://www.pexels.com/photo/silhouette-of-a-person-standing-on-seashore-during-sunset-12257702/",
+      "label": "Golden beach silhouette",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "photographer": "Monica Escalera",
+      "crop": {
+        "x": 0.82,
+        "y": 0.5
+      },
+      "source_sha256": "01860621a0765aa48dedda9b6022c0d2a3ca529f31462e0b6b599b3baf7a182a",
+      "local_file": "docs/assets/development-scenic-avatars/sam-archer.jpg",
+      "avatar_sha256": "47ba3336b3c00e8ee3e00e9bff7d4f3057203faafdcfd997701934a70bdad8c4"
+    },
+    {
+      "id": "19dbbc8f-5796-527c-9a2b-1bd882fab368",
+      "name": "Leah Quinn",
+      "source_url": "https://www.pexels.com/photo/flowers-on-meadow-at-sunset-24366543/",
+      "label": "Meadow at sunset",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "lifestyle",
+      "photographer": "Sabine Fischer",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "4d2cf5b98403edd1d50b1615796028d00bd80a3b0e0d8d26c5549612bc63855c",
+      "local_file": "docs/assets/development-scenic-avatars/leah-quinn.jpg",
+      "avatar_sha256": "227b60f707f100caa90eddaa121462f9d2bfd9bbcc84c186e5f6162a159055cb"
+    },
+    {
+      "id": "97dd6a5a-0881-51ae-b6f7-e2aee09754a8",
+      "name": "Dante Knox",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "97.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/dante-knox.jpg",
+      "avatar_sha256": "50ba27e853850c35d94f8ccb40279bb69d977ab17593de57596453740035dd50"
+    },
+    {
+      "id": "786fc76d-1070-55b4-81ef-30a08dcdae4e",
+      "name": "Naomi Chase",
+      "source_url": "https://www.pexels.com/photo/silhouette-of-person-by-ocean-at-sunset-36272100/",
+      "label": "Pink evening by the sea",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "photographer": "Moon Bouy",
+      "crop": {
+        "x": 0.5,
+        "y": 0.54
+      },
+      "source_sha256": "9e0dcc0b04035143b1c972fc00d32b1abbf83106405f35f9d4f32f5cab5f8032",
+      "local_file": "docs/assets/development-scenic-avatars/naomi-chase.jpg",
+      "avatar_sha256": "2e17b31a074fe73984e4679c1a7586d1469dfb8d393a5fc39e05a0494f252049"
+    },
+    {
+      "id": "52ae9afd-9819-5727-bd73-3b20c9d21168",
+      "name": "Alex Rivers",
+      "source_url": "https://www.pexels.com/photo/scenic-snowy-road-through-pine-forest-30560689/",
+      "label": "Snowy Pine Road",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "Anish Kumar",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "8fe4b4a367c42986821a789bd0f7514ccba29d36befe1733d2664f0f85563b63",
+      "local_file": "docs/assets/development-scenic-avatars/alex-rivers.jpg",
+      "avatar_sha256": "370fc1b28958ab4544b988f4a650f30e4e17ba18a933a42cd2b92d3112a33123"
+    },
+    {
+      "id": "94ad5bcf-2ebf-5c3a-8f02-d8966fe5f83e",
+      "name": "Mina Flores",
+      "source_url": "https://www.pexels.com/photo/view-of-mountains-from-a-train-window-14888478/",
+      "label": "火车窗景 — Jack Brown，Pexels",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "lifestyle",
+      "approved_preview": true,
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "dacb7f7fa028aca9ea6201576fb7743f980b271972a827925110c5e7bb67b012",
+      "local_file": "docs/assets/development-scenic-avatars/mina-flores.jpg",
+      "avatar_sha256": "17c231edda259714b704283a521b5ebcefd55fd0fadb9adec153919216538d7a"
+    },
+    {
+      "id": "1dbb484e-a71d-51d2-832a-d568267dd417",
+      "name": "Caleb Price",
+      "source_url": "https://www.pexels.com/photo/a-person-in-a-jacket-with-a-hoodie-walking-on-a-sidewalk-12138082/",
+      "label": "Hooded city stroll",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "back",
+      "photographer": "Ruslan Rozanov",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "c06bf8be97d819f4c990e2ad55a927bed7f18de80a94a3634b38bea18a1a9745",
+      "local_file": "docs/assets/development-scenic-avatars/caleb-price.jpg",
+      "avatar_sha256": "f1d9b7f01909c3b0f874dfb67db77b151ac4814972bb4dbd5a00b767987d854b"
+    },
+    {
+      "id": "969d3d84-0bd4-581b-9321-05f027434932",
+      "name": "Zoe Avery",
+      "source_url": "https://www.pexels.com/photo/stunning-mediterranean-sunset-over-rocky-seashore-36391827/",
+      "label": "Mediterranean Sunset",
+      "license_url": "https://www.pexels.com/license/",
+      "category": "scenery",
+      "photographer": "şule",
+      "crop": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "source_sha256": "2077a2cc349b022617596edbc34edb9faed5a1355eea4c7d07d14c37fcb7a07d",
+      "local_file": "docs/assets/development-scenic-avatars/zoe-avery.jpg",
+      "avatar_sha256": "930da5f7171ac6ea2d237defcc228ff796355777660619baaf5e455215142f18"
+    },
+    {
+      "id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "name": "Ethan Cole",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "22.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/ethan-cole.jpg",
+      "avatar_sha256": "54a95e0b034680764e01dcee3a933138479ccd4020254dc3a928a722f07c1c95"
+    },
+    {
+      "id": "25b18ddf-bf23-4744-bff9-03fd8c970a1c",
+      "name": "Maya Reed",
+      "category": "retained_portrait",
+      "previous_provenance": "docs/assets/development-lifestyle-avatars/provenance.json",
+      "archive_entry": "96.jpg",
+      "local_file": "docs/assets/development-lifestyle-avatars/maya-reed.jpg",
+      "avatar_sha256": "a4dfd309886bd693168296c9a53f0cb7eabca7f2b419cfe6b2f0a6fdb017f50d"
+    }
+  ]
+}

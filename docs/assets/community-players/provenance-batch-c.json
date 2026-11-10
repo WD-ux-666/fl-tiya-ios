@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "batch": "c",
+  "generated_on": "2026-11-06",
+  "manifest": "supabase/content/development-community-rosters-2026-11-06.json",
+  "scope": "existing=false players, zero-based filtered slice [22:33], 11 avatars",
+  "generator": "built-in image_gen.imagegen",
+  "mode": "generate",
+  "generation_calls": 11,
+  "fictional_adult_subjects": true,
+  "referenced_real_person_images": false,
+  "processing": "Each generated PNG was copied byte-for-byte to its manifest avatar_source. No resizing, cropping, retouching, re-encoding or other editing.",
+  "dimension_note": "Prompts requested square 1024 × 1024; the built-in generator returned square 1254 × 1254 PNGs. Original generated files were preserved.",
+  "inspection_method": "Every generated portrait was visually inspected in the imagegen result. File signature, dimensions, byte length, SHA256 and source/destination byte equality were checked.",
+  "assets": [
+    {
+      "manifest_new_player_index": 22,
+      "player_id": "5b0dc3ad-4518-55d0-8488-3628d86cacdf",
+      "display_name": "Emma Rowan",
+      "portrait_description": "woman, 27, fair skin, red-brown hair in ponytail, blue sweatshirt",
+      "avatar_source": "docs/assets/community-players/avatar-emma-rowan.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: woman, 27, fair skin, red-brown hair in ponytail, blue sweatshirt. Kind blue-gray eyes, light freckles across the nose, oval face, a relaxed closed-mouth smile. Ponytail visible behind one shoulder.\nScene/backdrop: plain subtly colored dusty lavender studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-66a5570f-9578-416e-b005-73dde635f933.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-emma-rowan.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2373631,
+      "sha256": "6f32aeed4a02177e11e5bb13e94d4cb34961bf1aabeefd20f080e15df47fe261",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult woman with fair freckled skin, red-brown ponytail, blue sweatshirt, lavender backdrop; face and eyes clear, natural proportions, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 23,
+      "player_id": "59bc0e8f-d247-582f-856d-6f3ed13de457",
+      "display_name": "Ezra Cole",
+      "portrait_description": "man, 29, dark brown skin, shaved head, thin glasses, maroon sweater",
+      "avatar_source": "docs/assets/community-players/avatar-ezra-cole.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: man, 29, dark brown skin, shaved head, thin glasses, maroon sweater. Thin dark round eyeglasses with clear lenses and no glare, long oval face, gentle smile, clean-shaven.\nScene/backdrop: plain subtly colored warm pale sand studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-01e462be-5003-41d1-9296-49fb32054844.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-ezra-cole.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2451738,
+      "sha256": "6bebc51f9b129fecaabbf0e8b25ca812f7bf61cfdc7aa5a87a7b5113abfbe3b0",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult dark-brown-skinned man, shaved head, thin round glasses and maroon sweater; unobstructed eyes, clean facial detail, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 24,
+      "player_id": "3660aa03-79e5-5e53-a8dc-e9e8fe0c29c0",
+      "display_name": "Iris Shaw",
+      "portrait_description": "woman, 28, East Asian, shoulder-length straight black hair, terracotta shirt",
+      "avatar_source": "docs/assets/community-players/avatar-iris-shaw.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: woman, 28, East Asian, shoulder-length straight black hair, terracotta shirt. Almond-shaped dark eyes, gently angular face, an easy friendly smile, hair parted slightly off center.\nScene/backdrop: plain subtly colored soft cool blue-gray studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-336e54a2-db53-46a1-894a-053c8efc484b.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-iris-shaw.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2314552,
+      "sha256": "f39dd36354017f3c0c51c6ddfd3474d5a2bc698a4785f9f9ade3d9bfaff4c792",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult East Asian woman, straight black shoulder-length hair and terracotta shirt; clear natural face on blue-gray backdrop, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 25,
+      "player_id": "73942806-20d7-54c8-bc77-1419d1bd9d7c",
+      "display_name": "Sam Archer",
+      "portrait_description": "man, 30, fair skin, curly brown hair, short beard, muted blue shirt",
+      "avatar_source": "docs/assets/community-players/avatar-sam-archer.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: man, 30, fair skin, curly brown hair, short beard, muted blue shirt. Broad friendly face, warm brown eyes, relaxed half-smile, clearly visible natural short beard and curly hair.\nScene/backdrop: plain subtly colored muted warm gray studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-119dd2f2-7842-40a7-bda9-b78b658c8bd7.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-sam-archer.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2319514,
+      "sha256": "13e0114ff81efc7efbbcd82b43ae4aab9ee0910b9f8df06fd1117c3b5ebf1d22",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult fair-skinned man with curly brown hair, natural short beard and muted blue shirt; face clear and centered on warm gray, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 26,
+      "player_id": "19dbbc8f-5796-527c-9a2b-1bd882fab368",
+      "display_name": "Leah Quinn",
+      "portrait_description": "woman, 26, brown skin, short curly hair, sage green shirt",
+      "avatar_source": "docs/assets/community-players/avatar-leah-quinn.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: woman, 26, brown skin, short curly hair, sage green shirt. Full natural short curls, round softly defined face, warm dark eyes, cheerful natural smile.\nScene/backdrop: plain subtly colored soft peach studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-e9ece7b4-4d53-4c81-93ed-f63d2226cbbf.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-leah-quinn.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2310865,
+      "sha256": "32c73b96794c3cd16e87d865245b9ca01bb6a935ca2c7ba088cacca6804ff585",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult brown-skinned woman with short natural curls and sage green shirt; cheerful face and visible eyes on peach background, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 27,
+      "player_id": "97dd6a5a-0881-51ae-b6f7-e2aee09754a8",
+      "display_name": "Dante Knox",
+      "portrait_description": "man, 28, deep brown skin, close-cropped hair, subtle mustache, black t-shirt",
+      "avatar_source": "docs/assets/community-players/avatar-dante-knox.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: man, 28, deep brown skin, close-cropped hair, subtle mustache, black t-shirt. Defined cheekbones and strong jaw, deep warm brown eyes, confident gentle smile, subtle neat mustache only.\nScene/backdrop: plain subtly colored muted pale teal studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-2eb07a19-aa30-4120-b7da-962451bc2177.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-dante-knox.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2211372,
+      "sha256": "d3b874be8af91352720a2b997cde505067a0ab45393915db7707d89f3cd3cc4c",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult deep-brown-skinned man with close-cropped hair, subtle mustache and plain black T-shirt; natural detail and centered face on pale teal, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 28,
+      "player_id": "786fc76d-1070-55b4-81ef-30a08dcdae4e",
+      "display_name": "Naomi Chase",
+      "portrait_description": "woman, 27, medium olive skin, long brown hair, black casual jacket",
+      "avatar_source": "docs/assets/community-players/avatar-naomi-chase.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: woman, 27, medium olive skin, long brown hair, black casual jacket. Heart-shaped face, expressive brown eyes, an open friendly smile, long hair falling over the shoulders.\nScene/backdrop: plain subtly colored dusty blue studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-2c9cf0ca-e2a1-4d16-9109-02ea886aaa72.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-naomi-chase.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2495821,
+      "sha256": "7c7b14069406ff1fbf0255ac634a99b9b5efbfbf395e3d9549e841dbb5805850",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult woman with medium olive skin, long brown hair and black casual jacket; smiling centered face with visible eyes on dusty blue, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 29,
+      "player_id": "52ae9afd-9819-5727-bd73-3b20c9d21168",
+      "display_name": "Alex Rivers",
+      "portrait_description": "man, 26, fair skin, dark shoulder-length hair, navy sweatshirt",
+      "avatar_source": "docs/assets/community-players/avatar-alex-rivers.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: man, 26, fair skin, dark shoulder-length hair, navy sweatshirt. Longer oval face, clear gray-green eyes, slight smile, straight dark shoulder-length hair tucked behind one ear, clean-shaven.\nScene/backdrop: plain subtly colored warm pale gray studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-fa9fa132-d262-4969-a87a-f5d72996e368.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-alex-rivers.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2266080,
+      "sha256": "6094684ce685895dcfef9a3653262a391e8f2b4221c08591738ad70c9e35647d",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult fair-skinned man with dark shoulder-length hair, clean-shaven face and navy sweatshirt; clear natural facial detail on warm gray, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 30,
+      "player_id": "94ad5bcf-2ebf-5c3a-8f02-d8966fe5f83e",
+      "display_name": "Mina Flores",
+      "portrait_description": "woman, 26, tan skin, long wavy black hair, muted rose shirt",
+      "avatar_source": "docs/assets/community-players/avatar-mina-flores.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: woman, 26, tan skin, long wavy black hair, muted rose shirt. Softly rounded face, warm brown eyes, broad natural smile, long loose wavy black hair.\nScene/backdrop: plain subtly colored muted cream studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-cceb330d-2925-4220-b628-da662eeaf849.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-mina-flores.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2453840,
+      "sha256": "086febeee7b07b63192ce90fe9ca27784ece02f2b987a154fa55e1eb71de145f",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult tan-skinned woman with long wavy black hair and muted rose shirt; friendly natural smile and distinct face on cream, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 31,
+      "player_id": "1dbb484e-a71d-51d2-832a-d568267dd417",
+      "display_name": "Caleb Price",
+      "portrait_description": "man, 29, light brown skin, short dark curls, beard, olive t-shirt",
+      "avatar_source": "docs/assets/community-players/avatar-caleb-price.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: man, 29, light brown skin, short dark curls, beard, olive t-shirt. Compact dark curls, full neatly trimmed beard, friendly brown eyes, broad relaxed smile.\nScene/backdrop: plain subtly colored soft desaturated sky blue studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-816b835d-c9ea-4509-97cf-d919012f96cc.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-caleb-price.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2210058,
+      "sha256": "dd69c50ea324bc7b8036f5384a3765e091170b20fdc7416dafbfc9334dd9a843",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult light-brown-skinned man with short dark curls, neatly trimmed beard and olive T-shirt; broad natural smile with clear face and eyes on pale blue, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    },
+    {
+      "manifest_new_player_index": 32,
+      "player_id": "969d3d84-0bd4-581b-9321-05f027434932",
+      "display_name": "Zoe Avery",
+      "portrait_description": "woman, 24, fair skin, short brown curly hair, teal sweater",
+      "avatar_source": "docs/assets/community-players/avatar-zoe-avery.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: square community-player profile avatar for a social gaming app, one portrait only.\nPrimary request: Create a completely fictional adult person, not a depiction of any real individual. Subject: woman, 24, fair skin, short brown curly hair, teal sweater. Short defined brown curls framing a softly square face, hazel eyes, a playful friendly closed-mouth smile.\nScene/backdrop: plain subtly colored pale warm mauve studio background, softly out of focus with no objects.\nStyle/medium: photorealistic natural editorial portrait, believable skin texture, realistic proportions, individual recognizable face, no beauty-filter smoothing.\nComposition/framing: square 1024 x 1024 PNG, centered head-and-shoulders portrait facing the camera, entire hairstyle and top of head visible with modest headroom, shoulders and upper chest visible, facial features clearly readable when displayed as a small circular avatar. One person only.\nLighting/mood: soft even daylight, natural catchlights, approachable relaxed expression, unobstructed eyes and face.\nConstraints: Match the specified adult age, appearance, hairstyle and clothing. Plain clothing. No text, letters, numbers, logos, watermark, borders, collage, illustration, heavy makeup, accessories not requested, or other people.",
+      "source_generated_path": "/Users/shangbao666/.codex/generated_images/01a1afbe-dd95-7911-9ad7-7ff0202d90a0/exec-68d293cb-3442-4b97-a8fc-56ef65ca4013.png",
+      "saved_path": "/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios/docs/assets/community-players/avatar-zoe-avery.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "bytes": 2406788,
+      "sha256": "2471d79d089506e2e964a300ab55861175e8bfac2e70eee9ae1c92f1491caea8",
+      "format": "PNG",
+      "inspection": {
+        "visually_inspected": true,
+        "notes": "Inspected generated portrait: adult fair-skinned woman with short brown curls and teal sweater; distinct natural face, visible hazel eyes and relaxed smile on mauve, no text or logos.",
+        "suitable_for_small_avatar": true,
+        "contains_text_logo_or_watermark": false
+      },
+      "original_bytes_preserved": true
+    }
+  ]
+}

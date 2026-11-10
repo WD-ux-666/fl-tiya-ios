@@ -1,0 +1,409 @@
+{
+  "project_ref": "gpstwmffctwqlcakmvgw",
+  "date": "2026-11-06",
+  "fictional": true,
+  "cohort": "development",
+  "description": "Current profile overlay. Historical initialization, publisher and comment manifests remain immutable.",
+  "portrait_provenance": "docs/assets/test-profiles/portrait-provenance-2026-11-06.json",
+  "profiles": [
+    {
+      "id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "reservation_label": "Development Alpha",
+      "original": {
+        "id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+        "bio": "",
+        "handle": "player_0a8b2ca19e564843828c07f560fabd2a",
+        "created_at": "2026-11-03T09:47:26.1679+00:00",
+        "avatar_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/abaeb4c1-e0a3-40a1-b121-310c35670879.png",
+        "display_name": "Development Alpha"
+      },
+      "current": {
+        "id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+        "bio": "Mostly here for good game clips and relaxed co-op. Always up for one more round.",
+        "handle": "ethan_cole",
+        "created_at": "2026-11-03T09:47:26.1679+00:00",
+        "avatar_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/abaeb4c1-e0a3-40a1-b121-310c35670879.png",
+        "display_name": "Ethan Cole"
+      },
+      "upload_required": false,
+      "source": "docs/assets/profile-male-portrait-20261106.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2051647,
+      "sha256": "0273381b213fe441b6ee9e5192d0fba06d231f40491438f54a8107ab04a35f21",
+      "mime": "image/png"
+    },
+    {
+      "id": "25b18ddf-bf23-4744-bff9-03fd8c970a1c",
+      "reservation_label": "Development Beta",
+      "original": {
+        "id": "25b18ddf-bf23-4744-bff9-03fd8c970a1c",
+        "bio": "",
+        "handle": "player_25b18ddfbf234744bff903fd8c970a1c",
+        "created_at": "2026-11-03T09:47:36.641671+00:00",
+        "avatar_path": null,
+        "display_name": "Development Beta"
+      },
+      "current": {
+        "id": "25b18ddf-bf23-4744-bff9-03fd8c970a1c",
+        "bio": "Co-op nights, cozy builds and a playlist that never ends. Send me your favorite game clip.",
+        "handle": "maya_reed",
+        "created_at": "2026-11-03T09:47:36.641671+00:00",
+        "avatar_path": "25b18ddf-bf23-4744-bff9-03fd8c970a1c/5f364b99-48a7-4062-9498-8dbb668f5236.png",
+        "display_name": "Maya Reed"
+      },
+      "upload_required": true,
+      "source": "docs/assets/test-profiles/avatar-maya-reed.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2467933,
+      "sha256": "ad281e6b8b23d13245a4e50c3863b250b2e026d3826d1ceb3d79b5f7109e7a4e",
+      "mime": "image/png"
+    },
+    {
+      "id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "reservation_label": "Development TEST Ember",
+      "original": {
+        "id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+        "bio": "Fictional test account for friend-request testing. Manual acceptance only. Explorer playstyle; development data only.",
+        "handle": "test_ember",
+        "created_at": "2026-11-06T07:31:51.851691+00:00",
+        "avatar_path": null,
+        "display_name": "[TEST] Ember"
+      },
+      "current": {
+        "id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+        "bio": "Exploring New Eridu between coffee breaks. Here for character builds, good clips and chill teammates.",
+        "handle": "jade_park",
+        "created_at": "2026-11-06T07:31:51.851691+00:00",
+        "avatar_path": "94c18071-e354-43e5-9596-5ab65eb6d106/c9cddafd-d8bb-4111-9fdc-51ab91846d22.png",
+        "display_name": "Jade Park"
+      },
+      "upload_required": true,
+      "source": "docs/assets/test-profiles/avatar-jade-park.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2408292,
+      "sha256": "48d120cb43213b96b588f42aecd1cd5780485176027be8cd139e73bd35bc1c27",
+      "mime": "image/png"
+    },
+    {
+      "id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "reservation_label": "Development TEST Harbor",
+      "original": {
+        "id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+        "bio": "Fictional test account for friend-request testing. Manual acceptance only. Co-op playstyle; development data only.",
+        "handle": "test_harbor",
+        "created_at": "2026-11-06T07:31:55.451136+00:00",
+        "avatar_path": null,
+        "display_name": "[TEST] Harbor"
+      },
+      "current": {
+        "id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+        "bio": "One more match usually means three. PUBG MOBILE, co-op games and keeping the squad laughing.",
+        "handle": "leo_brooks",
+        "created_at": "2026-11-06T07:31:55.451136+00:00",
+        "avatar_path": "ceb6b030-1b86-49c7-af0d-09fc2db576d8/062d639f-a385-42f2-b74d-1917fe453736.png",
+        "display_name": "Leo Brooks"
+      },
+      "upload_required": true,
+      "source": "docs/assets/test-profiles/avatar-leo-brooks.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2074027,
+      "sha256": "73e2e4e4d66962863c20e6be8d3bbfefb99c612b8c53ef0b2a080f4cbc138214",
+      "mime": "image/png"
+    },
+    {
+      "id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "reservation_label": "Development TEST Summit",
+      "original": {
+        "id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+        "bio": "Fictional test account for friend-request testing. Manual acceptance only. Strategy playstyle; development data only.",
+        "handle": "test_summit",
+        "created_at": "2026-11-06T07:31:59.124626+00:00",
+        "avatar_path": null,
+        "display_name": "[TEST] Summit"
+      },
+      "current": {
+        "id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+        "bio": "Love a clever build and a hard boss fight. Trading game tips, sharing highlights and learning as I go.",
+        "handle": "nina_vega",
+        "created_at": "2026-11-06T07:31:59.124626+00:00",
+        "avatar_path": "aa182005-e481-4df2-a56f-09ee60da7f5b/3c061f21-8bdf-43f6-b259-d60b1b4f4558.png",
+        "display_name": "Nina Vega"
+      },
+      "upload_required": true,
+      "source": "docs/assets/test-profiles/avatar-nina-vega.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2374506,
+      "sha256": "06537e202f15cc306adf060aa9d07adfa85234228158a039ae2a254d1d30f6cd",
+      "mime": "image/png"
+    }
+  ],
+  "original_game_cards": [
+    {
+      "game_id": "bobs-game",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "fantastic-contraption",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "freedoom",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "guacamelee",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "manifold-garden",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "minecraft",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "minetest",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "pubg-mobile",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "push-me-pull-you",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "supertuxkart",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "zenless-zone-zero",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "zero-ad",
+      "user_id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "progress": "Explorer: discovery and casual sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Ember"
+    },
+    {
+      "game_id": "bobs-game",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "fantastic-contraption",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "freedoom",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "guacamelee",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "manifold-garden",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "minecraft",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "minetest",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "pubg-mobile",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "push-me-pull-you",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "supertuxkart",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "zenless-zone-zero",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "zero-ad",
+      "user_id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "progress": "Strategist: planning and skill practice (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Summit"
+    },
+    {
+      "game_id": "bobs-game",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "fantastic-contraption",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "freedoom",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "guacamelee",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "manifold-garden",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "minecraft",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "minetest",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "pubg-mobile",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "push-me-pull-you",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "supertuxkart",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "zenless-zone-zero",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    },
+    {
+      "game_id": "zero-ad",
+      "user_id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "progress": "Co-op: teamwork and relaxed sessions (fictional test data)",
+      "days_played": null,
+      "player_name": "[TEST] Harbor"
+    }
+  ]
+}

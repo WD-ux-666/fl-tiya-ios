@@ -1,0 +1,36 @@
+[api]
+# Managed pg_net/Vault/private schemas must never enter the app Data API.
+schemas = ["public", "graphql_public"]
+
+# Both handlers establish their own trust boundary in source. No client can
+# credit by possessing a publishable key alone. See PAYMENTS.md.
+[functions.verify-apple-purchase]
+verify_jwt = false
+
+[functions.apple-payment-notifications]
+verify_jwt = false
+
+# Real Auth sessions issued only for enabled, server-reserved development codes.
+[functions.development-login]
+verify_jwt = false
+
+# Private Cron token is verified through a service-only claim RPC.
+[functions.collect-guide-candidates]
+verify_jwt = false
+
+# Auth /user verifies caller JWT; database rechecks the actual server session.
+# The separate cleanup action requires the private Vault worker token.
+[functions.call-service]
+verify_jwt = false
+
+# Auth /user plus service-only, current anonymous DB session checks.
+[functions.delete-experience-account]
+verify_jwt = false
+
+# Auth /user plus independently checked, service-only current account/session RPCs.
+[functions.delete-account]
+verify_jwt = false
+
+# Public, static legal text, PDF links and PDFs. No account data or Auth required.
+[functions.privacy-policy]
+verify_jwt = false

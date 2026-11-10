@@ -1,0 +1,1149 @@
+{
+  "project_ref": "gpstwmffctwqlcakmvgw",
+  "cohort": "development",
+  "fictional": true,
+  "date": "2026-11-09",
+  "provenance": "docs/assets/development-scenic-avatars/provenance.json",
+  "profiles": [
+    {
+      "id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+      "label": "Development TEST Ember",
+      "account": "community-original",
+      "name": "Jade Park",
+      "original": {
+        "id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+        "bio": "Exploring New Eridu between coffee breaks. Here for character builds, good clips and chill teammates.",
+        "handle": "jade_park",
+        "created_at": "2026-11-06T07:31:51.851691+00:00",
+        "avatar_path": "94c18071-e354-43e5-9596-5ab65eb6d106/7b37d97d-07f9-4d1e-8f9f-72e49680e166.jpg",
+        "display_name": "Jade Park"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/jade-park.jpg",
+      "bytes": 16157,
+      "sha256": "949742de45f003b4bde5b09f205a898353a1a776a497f575216265deaafc9bbb",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "94c18071-e354-43e5-9596-5ab65eb6d106",
+        "bio": "Exploring New Eridu between coffee breaks. Here for character builds, good clips and chill teammates.",
+        "handle": "jade_park",
+        "created_at": "2026-11-06T07:31:51.851691+00:00",
+        "avatar_path": "94c18071-e354-43e5-9596-5ab65eb6d106/7b37d97d-07f9-4d1e-8f9f-72e49680e166.jpg",
+        "display_name": "Jade Park"
+      }
+    },
+    {
+      "id": "d7d26b64-6b3d-5715-a78d-49a172682120",
+      "label": "Development Community Tessa Morgan",
+      "account": "community-expanded",
+      "name": "Tessa Morgan",
+      "original": {
+        "id": "d7d26b64-6b3d-5715-a78d-49a172682120",
+        "bio": "New Eridu after work. Testing agent teams and saving every good soundtrack.",
+        "handle": "tessa_morgan",
+        "created_at": "2026-11-06T09:56:34.199696+00:00",
+        "avatar_path": "d7d26b64-6b3d-5715-a78d-49a172682120/5bf0125c-d5be-4a80-8f36-a7af01d08d67.jpg",
+        "display_name": "Tessa Morgan"
+      },
+      "source": "docs/assets/development-scenic-avatars/tessa-morgan.jpg",
+      "bytes": 25357,
+      "sha256": "7f99430aed414a213cf34a005cf4986a8fabb1a7da0879b787935d234eff9405",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "d7d26b64-6b3d-5715-a78d-49a172682120",
+        "bio": "New Eridu after work. Testing agent teams and saving every good soundtrack.",
+        "handle": "tessa_morgan",
+        "created_at": "2026-11-06T09:56:34.199696+00:00",
+        "avatar_path": "d7d26b64-6b3d-5715-a78d-49a172682120/cc42070d-ef3a-551f-9bff-5a7b24673ee8.jpg",
+        "display_name": "Tessa Morgan"
+      }
+    },
+    {
+      "id": "864c4d79-7101-51c3-8a47-8aee6df1155c",
+      "label": "Development Community Kai Lin",
+      "account": "community-expanded",
+      "name": "Kai Lin",
+      "original": {
+        "id": "864c4d79-7101-51c3-8a47-8aee6df1155c",
+        "bio": "Here for smooth dodges, new character builds and a chill chat between runs.",
+        "handle": "kai_lin",
+        "created_at": "2026-11-06T09:56:41.499754+00:00",
+        "avatar_path": "864c4d79-7101-51c3-8a47-8aee6df1155c/4f407e15-3be9-4fc9-b058-20308406c63c.jpg",
+        "display_name": "Kai Lin"
+      },
+      "source": "docs/assets/development-scenic-avatars/kai-lin.jpg",
+      "bytes": 24678,
+      "sha256": "a520a094293d4675135eeba9349085149999ccc75bd3d4e085d7afc198627034",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "864c4d79-7101-51c3-8a47-8aee6df1155c",
+        "bio": "Here for smooth dodges, new character builds and a chill chat between runs.",
+        "handle": "kai_lin",
+        "created_at": "2026-11-06T09:56:41.499754+00:00",
+        "avatar_path": "864c4d79-7101-51c3-8a47-8aee6df1155c/69a8a911-67ca-53b0-996f-265a4e8a76a4.jpg",
+        "display_name": "Kai Lin"
+      }
+    },
+    {
+      "id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+      "label": "Development TEST Harbor",
+      "account": "community-original",
+      "name": "Leo Brooks",
+      "original": {
+        "id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+        "bio": "One more match usually means three. PUBG MOBILE, co-op games and keeping the squad laughing.",
+        "handle": "leo_brooks",
+        "created_at": "2026-11-06T07:31:55.451136+00:00",
+        "avatar_path": "ceb6b030-1b86-49c7-af0d-09fc2db576d8/288c0078-76e7-48d8-ab6e-0bd1b3af4db2.jpg",
+        "display_name": "Leo Brooks"
+      },
+      "source": "docs/assets/development-scenic-avatars/leo-brooks.jpg",
+      "bytes": 37390,
+      "sha256": "bd8034038bcdd8b48c670013ca073c51731328eb541f0f93af2d4920180b613f",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "ceb6b030-1b86-49c7-af0d-09fc2db576d8",
+        "bio": "One more match usually means three. PUBG MOBILE, co-op games and keeping the squad laughing.",
+        "handle": "leo_brooks",
+        "created_at": "2026-11-06T07:31:55.451136+00:00",
+        "avatar_path": "ceb6b030-1b86-49c7-af0d-09fc2db576d8/594d91f0-26d1-579c-a6dc-d95691acd81e.jpg",
+        "display_name": "Leo Brooks"
+      }
+    },
+    {
+      "id": "17dcccdf-50cf-5e79-ba6d-14693bcea1c0",
+      "label": "Development Community Zara Hayes",
+      "account": "community-expanded",
+      "name": "Zara Hayes",
+      "original": {
+        "id": "17dcccdf-50cf-5e79-ba6d-14693bcea1c0",
+        "bio": "Erangel evenings with the squad. Good callouts beat a perfect score.",
+        "handle": "zara_hayes",
+        "created_at": "2026-11-06T09:56:47.467985+00:00",
+        "avatar_path": "17dcccdf-50cf-5e79-ba6d-14693bcea1c0/7a8edcd3-433c-4ebb-a539-5d5f2e82f854.jpg",
+        "display_name": "Zara Hayes"
+      },
+      "source": "docs/assets/development-scenic-avatars/zara-hayes.jpg",
+      "bytes": 21842,
+      "sha256": "ab8827e4d6c5ce4aacbed5c115eb5e952091aba0cfa625b95c69a31ada2063c2",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "17dcccdf-50cf-5e79-ba6d-14693bcea1c0",
+        "bio": "Erangel evenings with the squad. Good callouts beat a perfect score.",
+        "handle": "zara_hayes",
+        "created_at": "2026-11-06T09:56:47.467985+00:00",
+        "avatar_path": "17dcccdf-50cf-5e79-ba6d-14693bcea1c0/84a14183-5e60-585a-aadf-97ab829ccf7f.jpg",
+        "display_name": "Zara Hayes"
+      }
+    },
+    {
+      "id": "a6aff5c5-0e13-5a56-bf28-41685cb89100",
+      "label": "Development Community Marcus Reed",
+      "account": "community-expanded",
+      "name": "Marcus Reed",
+      "original": {
+        "id": "a6aff5c5-0e13-5a56-bf28-41685cb89100",
+        "bio": "Usually the last one looting. Looking for relaxed squads and funny match clips.",
+        "handle": "marcus_reed",
+        "created_at": "2026-11-06T09:56:55.072357+00:00",
+        "avatar_path": "a6aff5c5-0e13-5a56-bf28-41685cb89100/cf08a6f1-53f5-401b-9de8-cb576a75462d.jpg",
+        "display_name": "Marcus Reed"
+      },
+      "source": "docs/assets/development-scenic-avatars/marcus-reed.jpg",
+      "bytes": 16144,
+      "sha256": "73e406800e1534007bc3c3e4719e77963bb79674abf1c511d24db1ac52790008",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "a6aff5c5-0e13-5a56-bf28-41685cb89100",
+        "bio": "Usually the last one looting. Looking for relaxed squads and funny match clips.",
+        "handle": "marcus_reed",
+        "created_at": "2026-11-06T09:56:55.072357+00:00",
+        "avatar_path": "a6aff5c5-0e13-5a56-bf28-41685cb89100/c9c9415a-4ae4-5919-b82e-a360069b9803.jpg",
+        "display_name": "Marcus Reed"
+      }
+    },
+    {
+      "id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+      "label": "Development TEST Summit",
+      "account": "community-original",
+      "name": "Nina Vega",
+      "original": {
+        "id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+        "bio": "Love a clever build and a hard boss fight. Trading game tips, sharing highlights and learning as I go.",
+        "handle": "nina_vega",
+        "created_at": "2026-11-06T07:31:59.124626+00:00",
+        "avatar_path": "aa182005-e481-4df2-a56f-09ee60da7f5b/a1c8f108-bb14-4b14-8d1b-389e3d0da2ca.jpg",
+        "display_name": "Nina Vega"
+      },
+      "source": "docs/assets/development-scenic-avatars/nina-vega.jpg",
+      "bytes": 36713,
+      "sha256": "4e3ca1eb924f8d401fbf6ebefe9d48adbe0756ce5dac8082c0a3cdc66eea354c",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "aa182005-e481-4df2-a56f-09ee60da7f5b",
+        "bio": "Love a clever build and a hard boss fight. Trading game tips, sharing highlights and learning as I go.",
+        "handle": "nina_vega",
+        "created_at": "2026-11-06T07:31:59.124626+00:00",
+        "avatar_path": "aa182005-e481-4df2-a56f-09ee60da7f5b/766cf9c2-51fd-5913-89ef-d5aa65378cdf.jpg",
+        "display_name": "Nina Vega"
+      }
+    },
+    {
+      "id": "1c1594bf-d7f4-5d06-8bb9-be3507e9ea48",
+      "label": "Development Community Owen Brooks",
+      "account": "community-expanded",
+      "name": "Owen Brooks",
+      "original": {
+        "id": "1c1594bf-d7f4-5d06-8bb9-be3507e9ea48",
+        "bio": "Tiny cabins, huge storage rooms. Always starting another survival world.",
+        "handle": "owen_brooks",
+        "created_at": "2026-11-06T09:57:01.019664+00:00",
+        "avatar_path": "1c1594bf-d7f4-5d06-8bb9-be3507e9ea48/9b709069-86cc-4c98-be81-7e8224686099.jpg",
+        "display_name": "Owen Brooks"
+      },
+      "source": "docs/assets/development-scenic-avatars/owen-brooks.jpg",
+      "bytes": 46743,
+      "sha256": "4c6253077ea2b26c5840bde1627db457c99d9378b39f68dba4234a32d6a2d719",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "1c1594bf-d7f4-5d06-8bb9-be3507e9ea48",
+        "bio": "Tiny cabins, huge storage rooms. Always starting another survival world.",
+        "handle": "owen_brooks",
+        "created_at": "2026-11-06T09:57:01.019664+00:00",
+        "avatar_path": "1c1594bf-d7f4-5d06-8bb9-be3507e9ea48/d7147397-6078-5979-be79-1b4c61fe7ba1.jpg",
+        "display_name": "Owen Brooks"
+      }
+    },
+    {
+      "id": "e7e975f1-b08a-596d-8df8-df9f5bdda8c1",
+      "label": "Development Community Chloe Bennett",
+      "account": "community-expanded",
+      "name": "Chloe Bennett",
+      "original": {
+        "id": "e7e975f1-b08a-596d-8df8-df9f5bdda8c1",
+        "bio": "Building cozy villages one block at a time. Share your favorite build idea.",
+        "handle": "chloe_bennett",
+        "created_at": "2026-11-06T09:57:07.057307+00:00",
+        "avatar_path": "e7e975f1-b08a-596d-8df8-df9f5bdda8c1/606f4552-b8b5-47ed-864c-caca7223a4ff.jpg",
+        "display_name": "Chloe Bennett"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/chloe-bennett.jpg",
+      "bytes": 15392,
+      "sha256": "7373ce777ea93d755811c96571d3ad38176dae5c1385ec45822db66052ff4d13",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "e7e975f1-b08a-596d-8df8-df9f5bdda8c1",
+        "bio": "Building cozy villages one block at a time. Share your favorite build idea.",
+        "handle": "chloe_bennett",
+        "created_at": "2026-11-06T09:57:07.057307+00:00",
+        "avatar_path": "e7e975f1-b08a-596d-8df8-df9f5bdda8c1/606f4552-b8b5-47ed-864c-caca7223a4ff.jpg",
+        "display_name": "Chloe Bennett"
+      }
+    },
+    {
+      "id": "ccfc933b-dba2-55ef-92ee-47ab6fe85467",
+      "label": "Development Community Ava Sterling",
+      "account": "community-expanded",
+      "name": "Ava Sterling",
+      "original": {
+        "id": "ccfc933b-dba2-55ef-92ee-47ab6fe85467",
+        "bio": "Impossible staircases and slow afternoons. I like puzzles that make me stop and look.",
+        "handle": "ava_sterling",
+        "created_at": "2026-11-06T09:57:13.42622+00:00",
+        "avatar_path": "ccfc933b-dba2-55ef-92ee-47ab6fe85467/6e3df836-905a-430e-8ee6-58d91e00dc92.jpg",
+        "display_name": "Ava Sterling"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/ava-sterling.jpg",
+      "bytes": 17056,
+      "sha256": "231f026db559838e7e92d1e025f2e6e31a389888e9c1ffba9986c65230c86d8d",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "ccfc933b-dba2-55ef-92ee-47ab6fe85467",
+        "bio": "Impossible staircases and slow afternoons. I like puzzles that make me stop and look.",
+        "handle": "ava_sterling",
+        "created_at": "2026-11-06T09:57:13.42622+00:00",
+        "avatar_path": "ccfc933b-dba2-55ef-92ee-47ab6fe85467/6e3df836-905a-430e-8ee6-58d91e00dc92.jpg",
+        "display_name": "Ava Sterling"
+      }
+    },
+    {
+      "id": "e53c8f39-87c4-5d03-b324-722c2044301c",
+      "label": "Development Community Felix Quinn",
+      "account": "community-expanded",
+      "name": "Felix Quinn",
+      "original": {
+        "id": "e53c8f39-87c4-5d03-b324-722c2044301c",
+        "bio": "Turning gravity around until something finally clicks. Puzzle recommendations welcome.",
+        "handle": "felix_quinn",
+        "created_at": "2026-11-06T09:57:24.330068+00:00",
+        "avatar_path": "e53c8f39-87c4-5d03-b324-722c2044301c/133f93e9-1416-4f24-bfa2-02a86ec97a12.jpg",
+        "display_name": "Felix Quinn"
+      },
+      "source": "docs/assets/development-scenic-avatars/felix-quinn.jpg",
+      "bytes": 40461,
+      "sha256": "29e810182b19385e53f1033f59599aaec0faa27e00159cedb08a6a34f7ca827c",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "e53c8f39-87c4-5d03-b324-722c2044301c",
+        "bio": "Turning gravity around until something finally clicks. Puzzle recommendations welcome.",
+        "handle": "felix_quinn",
+        "created_at": "2026-11-06T09:57:24.330068+00:00",
+        "avatar_path": "e53c8f39-87c4-5d03-b324-722c2044301c/bb1c80df-8fa7-51c5-9328-7c39e80a46b9.jpg",
+        "display_name": "Felix Quinn"
+      }
+    },
+    {
+      "id": "4db6ec84-3240-5fb7-8de6-95ad6bda6191",
+      "label": "Development Community Sofia Hart",
+      "account": "community-expanded",
+      "name": "Sofia Hart",
+      "original": {
+        "id": "4db6ec84-3240-5fb7-8de6-95ad6bda6191",
+        "bio": "Architecture, ambient music and games with strange beautiful worlds.",
+        "handle": "sofia_hart",
+        "created_at": "2026-11-06T09:57:36.977631+00:00",
+        "avatar_path": "4db6ec84-3240-5fb7-8de6-95ad6bda6191/c1086ddf-422f-423f-bd6d-0efce5c61d28.jpg",
+        "display_name": "Sofia Hart"
+      },
+      "source": "docs/assets/development-scenic-avatars/sofia-hart.jpg",
+      "bytes": 50073,
+      "sha256": "13640a39703c4f7222484995120addce9cc25427b0470048bf94982ba6c4619d",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "4db6ec84-3240-5fb7-8de6-95ad6bda6191",
+        "bio": "Architecture, ambient music and games with strange beautiful worlds.",
+        "handle": "sofia_hart",
+        "created_at": "2026-11-06T09:57:36.977631+00:00",
+        "avatar_path": "4db6ec84-3240-5fb7-8de6-95ad6bda6191/92778874-576c-5d8d-8678-bdb5c782470b.jpg",
+        "display_name": "Sofia Hart"
+      }
+    },
+    {
+      "id": "256e3201-3934-5ae7-804a-02186ad08eec",
+      "label": "Development Community Diego Cruz",
+      "account": "community-expanded",
+      "name": "Diego Cruz",
+      "original": {
+        "id": "256e3201-3934-5ae7-804a-02186ad08eec",
+        "bio": "A little platforming, a lot of missed jumps. Always up for a co-op challenge.",
+        "handle": "diego_cruz",
+        "created_at": "2026-11-06T09:57:43.817926+00:00",
+        "avatar_path": "256e3201-3934-5ae7-804a-02186ad08eec/d418725a-4c03-4c52-ba72-a300da7c5cff.jpg",
+        "display_name": "Diego Cruz"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/diego-cruz.jpg",
+      "bytes": 25547,
+      "sha256": "a43fb8b589281fd05b2bae6d7e52ac3eb75b2a3053a6e6f179227fa2cadd56dd",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "256e3201-3934-5ae7-804a-02186ad08eec",
+        "bio": "A little platforming, a lot of missed jumps. Always up for a co-op challenge.",
+        "handle": "diego_cruz",
+        "created_at": "2026-11-06T09:57:43.817926+00:00",
+        "avatar_path": "256e3201-3934-5ae7-804a-02186ad08eec/d418725a-4c03-4c52-ba72-a300da7c5cff.jpg",
+        "display_name": "Diego Cruz"
+      }
+    },
+    {
+      "id": "42f543fd-aa4b-5b36-9d83-9f0dae503523",
+      "label": "Development Community Ruby Navarro",
+      "account": "community-expanded",
+      "name": "Ruby Navarro",
+      "original": {
+        "id": "42f543fd-aa4b-5b36-9d83-9f0dae503523",
+        "bio": "Here for bright worlds, clever combos and finding every hidden corner.",
+        "handle": "ruby_navarro",
+        "created_at": "2026-11-06T09:57:49.618024+00:00",
+        "avatar_path": "42f543fd-aa4b-5b36-9d83-9f0dae503523/36a9813c-dca3-4e1e-ac54-478e0efc1f02.jpg",
+        "display_name": "Ruby Navarro"
+      },
+      "source": "docs/assets/development-scenic-avatars/ruby-navarro.jpg",
+      "bytes": 16118,
+      "sha256": "8b01c9c5146b161942aa01ba655dd19c5f9c616c8f835859eabf0c6352101b6d",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "42f543fd-aa4b-5b36-9d83-9f0dae503523",
+        "bio": "Here for bright worlds, clever combos and finding every hidden corner.",
+        "handle": "ruby_navarro",
+        "created_at": "2026-11-06T09:57:49.618024+00:00",
+        "avatar_path": "42f543fd-aa4b-5b36-9d83-9f0dae503523/8d69806d-43ac-5ed6-94f3-7b998dc32260.jpg",
+        "display_name": "Ruby Navarro"
+      }
+    },
+    {
+      "id": "64428a1b-6ad1-5461-baf2-7f50d94b4b20",
+      "label": "Development Community Max Turner",
+      "account": "community-expanded",
+      "name": "Max Turner",
+      "original": {
+        "id": "64428a1b-6ad1-5461-baf2-7f50d94b4b20",
+        "bio": "Chasing one clean combo before calling it a night. Send me your best boss tip.",
+        "handle": "max_turner",
+        "created_at": "2026-11-06T10:01:47.152497+00:00",
+        "avatar_path": "64428a1b-6ad1-5461-baf2-7f50d94b4b20/f7928513-7fbf-4198-b55c-5dad3004fe2e.jpg",
+        "display_name": "Max Turner"
+      },
+      "source": "docs/assets/development-scenic-avatars/max-turner.jpg",
+      "bytes": 21900,
+      "sha256": "fcc7d6fe28878dbd5500c06d335f3af92913e4b99f785dd8679f7271ef09895b",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "64428a1b-6ad1-5461-baf2-7f50d94b4b20",
+        "bio": "Chasing one clean combo before calling it a night. Send me your best boss tip.",
+        "handle": "max_turner",
+        "created_at": "2026-11-06T10:01:47.152497+00:00",
+        "avatar_path": "64428a1b-6ad1-5461-baf2-7f50d94b4b20/ad8fe640-2bdc-5bd2-8dfc-4b420445a610.jpg",
+        "display_name": "Max Turner"
+      }
+    },
+    {
+      "id": "2a92931a-1e2a-5ba8-8149-17c2fd3dc9ed",
+      "label": "Development Community Adrian Vale",
+      "account": "community-expanded",
+      "name": "Adrian Vale",
+      "original": {
+        "id": "2a92931a-1e2a-5ba8-8149-17c2fd3dc9ed",
+        "bio": "History nerd who spends too long planning the base. Casual strategy games after work.",
+        "handle": "adrian_vale",
+        "created_at": "2026-11-06T10:01:52.826239+00:00",
+        "avatar_path": "2a92931a-1e2a-5ba8-8149-17c2fd3dc9ed/055f947a-4b54-464b-8dad-480005c1bcc4.jpg",
+        "display_name": "Adrian Vale"
+      },
+      "source": "docs/assets/development-scenic-avatars/adrian-vale.jpg",
+      "bytes": 23208,
+      "sha256": "779d7cc58d98efd2ef922e00eb29551a2b62b98027bc727a0d79fdcc836860b6",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "2a92931a-1e2a-5ba8-8149-17c2fd3dc9ed",
+        "bio": "History nerd who spends too long planning the base. Casual strategy games after work.",
+        "handle": "adrian_vale",
+        "created_at": "2026-11-06T10:01:52.826239+00:00",
+        "avatar_path": "2a92931a-1e2a-5ba8-8149-17c2fd3dc9ed/7a05824c-1f71-59df-b9a5-4b6c89189c85.jpg",
+        "display_name": "Adrian Vale"
+      }
+    },
+    {
+      "id": "1df93ea1-76a7-5d65-8841-bc22a4cff5df",
+      "label": "Development Community Amara Blake",
+      "account": "community-expanded",
+      "name": "Amara Blake",
+      "original": {
+        "id": "1df93ea1-76a7-5d65-8841-bc22a4cff5df",
+        "bio": "Patient openings, messy battles. Learning a new civilization one match at a time.",
+        "handle": "amara_blake",
+        "created_at": "2026-11-06T10:01:59.062039+00:00",
+        "avatar_path": "1df93ea1-76a7-5d65-8841-bc22a4cff5df/380461ec-a00b-465c-a7a3-a7fa1c29a094.jpg",
+        "display_name": "Amara Blake"
+      },
+      "source": "docs/assets/development-scenic-avatars/amara-blake.jpg",
+      "bytes": 49900,
+      "sha256": "4225cff113e1e35aa3046eaf7add8d596a5c0053fb088b5564e7ebe1d80234b1",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "1df93ea1-76a7-5d65-8841-bc22a4cff5df",
+        "bio": "Patient openings, messy battles. Learning a new civilization one match at a time.",
+        "handle": "amara_blake",
+        "created_at": "2026-11-06T10:01:59.062039+00:00",
+        "avatar_path": "1df93ea1-76a7-5d65-8841-bc22a4cff5df/983fae7c-bf24-5823-a80d-5ecb957442db.jpg",
+        "display_name": "Amara Blake"
+      }
+    },
+    {
+      "id": "a743fd72-2c02-55d0-b5c0-16514d005e05",
+      "label": "Development Community Theo Grant",
+      "account": "community-expanded",
+      "name": "Theo Grant",
+      "original": {
+        "id": "a743fd72-2c02-55d0-b5c0-16514d005e05",
+        "bio": "A strategy game and a cup of tea is a good evening. Happy to swap build orders.",
+        "handle": "theo_grant",
+        "created_at": "2026-11-06T10:02:07.941331+00:00",
+        "avatar_path": "a743fd72-2c02-55d0-b5c0-16514d005e05/0a665583-b5a3-4162-9603-f84731552ad9.jpg",
+        "display_name": "Theo Grant"
+      },
+      "source": "docs/assets/development-scenic-avatars/theo-grant.jpg",
+      "bytes": 28585,
+      "sha256": "a22609c679c2b3e0b1aebd9df50cb4fc9e4ea238ea719c6c875df2aa01ac41d7",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "a743fd72-2c02-55d0-b5c0-16514d005e05",
+        "bio": "A strategy game and a cup of tea is a good evening. Happy to swap build orders.",
+        "handle": "theo_grant",
+        "created_at": "2026-11-06T10:02:07.941331+00:00",
+        "avatar_path": "a743fd72-2c02-55d0-b5c0-16514d005e05/10d7b4ee-be93-5c90-8d9c-44185f4b3958.jpg",
+        "display_name": "Theo Grant"
+      }
+    },
+    {
+      "id": "ab1404ba-918b-5eb8-9e65-3a280321e1c7",
+      "label": "Development Community Poppy Lane",
+      "account": "community-expanded",
+      "name": "Poppy Lane",
+      "original": {
+        "id": "ab1404ba-918b-5eb8-9e65-3a280321e1c7",
+        "bio": "Kart races with friends and a little friendly rivalry. Corners are still my weakness.",
+        "handle": "poppy_lane",
+        "created_at": "2026-11-06T10:02:13.672146+00:00",
+        "avatar_path": "ab1404ba-918b-5eb8-9e65-3a280321e1c7/f60e1147-64f1-42cc-bcd1-85726811a96b.jpg",
+        "display_name": "Poppy Lane"
+      },
+      "source": "docs/assets/development-scenic-avatars/poppy-lane.jpg",
+      "bytes": 26453,
+      "sha256": "9bf2cd88dba84d031e7921086946b6e0d378313a4c2c9ed70824455a872a614f",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "ab1404ba-918b-5eb8-9e65-3a280321e1c7",
+        "bio": "Kart races with friends and a little friendly rivalry. Corners are still my weakness.",
+        "handle": "poppy_lane",
+        "created_at": "2026-11-06T10:02:13.672146+00:00",
+        "avatar_path": "ab1404ba-918b-5eb8-9e65-3a280321e1c7/91ef94e3-5791-5732-9f30-30a48247c38d.jpg",
+        "display_name": "Poppy Lane"
+      }
+    },
+    {
+      "id": "64626c14-0111-5c75-852d-fc569c55620e",
+      "label": "Development Community Noah Wells",
+      "account": "community-expanded",
+      "name": "Noah Wells",
+      "original": {
+        "id": "64626c14-0111-5c75-852d-fc569c55620e",
+        "bio": "One more lap, one more shortcut. Here for quick races and good company.",
+        "handle": "noah_wells",
+        "created_at": "2026-11-06T10:02:19.572489+00:00",
+        "avatar_path": "64626c14-0111-5c75-852d-fc569c55620e/7e5f2759-50a6-4665-a0bb-3b64cc438f9f.jpg",
+        "display_name": "Noah Wells"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/noah-wells.jpg",
+      "bytes": 19875,
+      "sha256": "2e12cc2ef34ad80e70dac6c72a5fa4d547b929ae9e38297d89c1a7475899d9d2",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "64626c14-0111-5c75-852d-fc569c55620e",
+        "bio": "One more lap, one more shortcut. Here for quick races and good company.",
+        "handle": "noah_wells",
+        "created_at": "2026-11-06T10:02:19.572489+00:00",
+        "avatar_path": "64626c14-0111-5c75-852d-fc569c55620e/7e5f2759-50a6-4665-a0bb-3b64cc438f9f.jpg",
+        "display_name": "Noah Wells"
+      }
+    },
+    {
+      "id": "54ea5a01-bbcc-5349-940c-a58264b628ed",
+      "label": "Development Community Isla Fox",
+      "account": "community-expanded",
+      "name": "Isla Fox",
+      "original": {
+        "id": "54ea5a01-bbcc-5349-940c-a58264b628ed",
+        "bio": "Collecting shortcuts and laughing at my own crashes. Casual races any day.",
+        "handle": "isla_fox",
+        "created_at": "2026-11-06T10:02:25.734395+00:00",
+        "avatar_path": "54ea5a01-bbcc-5349-940c-a58264b628ed/8d0badf5-e2bf-4177-a2ca-5b2164796d70.jpg",
+        "display_name": "Isla Fox"
+      },
+      "source": "docs/assets/development-scenic-avatars/isla-fox.jpg",
+      "bytes": 46243,
+      "sha256": "c0815141821ceed08f9d935428061f312081cca35be60b99ea8c085ce5a854c0",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "54ea5a01-bbcc-5349-940c-a58264b628ed",
+        "bio": "Collecting shortcuts and laughing at my own crashes. Casual races any day.",
+        "handle": "isla_fox",
+        "created_at": "2026-11-06T10:02:25.734395+00:00",
+        "avatar_path": "54ea5a01-bbcc-5349-940c-a58264b628ed/7982fd50-41b9-5bc0-a4d3-bf00d12f482b.jpg",
+        "display_name": "Isla Fox"
+      }
+    },
+    {
+      "id": "919c7892-d739-581b-8df0-9ff8d75c51c7",
+      "label": "Development Community Milo Stone",
+      "account": "community-expanded",
+      "name": "Milo Stone",
+      "original": {
+        "id": "919c7892-d739-581b-8df0-9ff8d75c51c7",
+        "bio": "Digging tunnels and trying new mods. My next build is always bigger than the last.",
+        "handle": "milo_stone",
+        "created_at": "2026-11-06T10:02:39.858324+00:00",
+        "avatar_path": "919c7892-d739-581b-8df0-9ff8d75c51c7/4259748f-cd9f-4c97-8e7b-be7929c35a4b.jpg",
+        "display_name": "Milo Stone"
+      },
+      "source": "docs/assets/development-scenic-avatars/milo-stone.jpg",
+      "bytes": 40169,
+      "sha256": "4824ee130175739d8f882cc005670770d8870275f3034c4d1e519f4f7c553212",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "919c7892-d739-581b-8df0-9ff8d75c51c7",
+        "bio": "Digging tunnels and trying new mods. My next build is always bigger than the last.",
+        "handle": "milo_stone",
+        "created_at": "2026-11-06T10:02:39.858324+00:00",
+        "avatar_path": "919c7892-d739-581b-8df0-9ff8d75c51c7/946ad430-2bd7-56b8-8d02-d94ef8617469.jpg",
+        "display_name": "Milo Stone"
+      }
+    },
+    {
+      "id": "1f3a575d-5ba3-5073-98ae-7b1b5af41850",
+      "label": "Development Community Aria Finch",
+      "account": "community-expanded",
+      "name": "Aria Finch",
+      "original": {
+        "id": "1f3a575d-5ba3-5073-98ae-7b1b5af41850",
+        "bio": "Open worlds, garden builds and a quiet mining session. Show me what you are making.",
+        "handle": "aria_finch",
+        "created_at": "2026-11-06T10:02:50.02483+00:00",
+        "avatar_path": "1f3a575d-5ba3-5073-98ae-7b1b5af41850/dc44084a-e2ef-431c-9ac3-5300b5b1a422.jpg",
+        "display_name": "Aria Finch"
+      },
+      "source": "docs/assets/development-scenic-avatars/aria-finch.jpg",
+      "bytes": 32452,
+      "sha256": "a11aa75275cb2e4b4d4ed08e25a173075cb2f46388b05852703191f433f63ba9",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "1f3a575d-5ba3-5073-98ae-7b1b5af41850",
+        "bio": "Open worlds, garden builds and a quiet mining session. Show me what you are making.",
+        "handle": "aria_finch",
+        "created_at": "2026-11-06T10:02:50.02483+00:00",
+        "avatar_path": "1f3a575d-5ba3-5073-98ae-7b1b5af41850/d301f40a-c0c8-57e8-974f-8347594eeee6.jpg",
+        "display_name": "Aria Finch"
+      }
+    },
+    {
+      "id": "499cdd5d-28f4-58ae-befe-eb13bd0fcc31",
+      "label": "Development Community Ben Ellis",
+      "account": "community-expanded",
+      "name": "Ben Ellis",
+      "original": {
+        "id": "499cdd5d-28f4-58ae-befe-eb13bd0fcc31",
+        "bio": "Weekend builder who keeps getting distracted underground. I enjoy tinkering with mods.",
+        "handle": "ben_ellis",
+        "created_at": "2026-11-06T10:02:59.091694+00:00",
+        "avatar_path": "499cdd5d-28f4-58ae-befe-eb13bd0fcc31/b14d23a7-e340-4114-a912-8b8fba43a12b.jpg",
+        "display_name": "Ben Ellis"
+      },
+      "source": "docs/assets/development-scenic-avatars/ben-ellis.jpg",
+      "bytes": 24934,
+      "sha256": "b7a4934edea1a9f64bd03ffa553fa2eeae452aeb5db2ca051873865a812ef263",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "499cdd5d-28f4-58ae-befe-eb13bd0fcc31",
+        "bio": "Weekend builder who keeps getting distracted underground. I enjoy tinkering with mods.",
+        "handle": "ben_ellis",
+        "created_at": "2026-11-06T10:02:59.091694+00:00",
+        "avatar_path": "499cdd5d-28f4-58ae-befe-eb13bd0fcc31/ba9c6987-8df6-5628-96ce-1865cbb6590e.jpg",
+        "display_name": "Ben Ellis"
+      }
+    },
+    {
+      "id": "dc7e5f57-b1ed-5c06-bf84-5fec2ce9635a",
+      "label": "Development Community Luca West",
+      "account": "community-expanded",
+      "name": "Luca West",
+      "original": {
+        "id": "dc7e5f57-b1ed-5c06-bf84-5fec2ce9635a",
+        "bio": "Just a quick puzzle before bed, until it becomes five more. Comparing high scores for fun.",
+        "handle": "luca_west",
+        "created_at": "2026-11-06T10:03:05.493135+00:00",
+        "avatar_path": "dc7e5f57-b1ed-5c06-bf84-5fec2ce9635a/15b24890-37d2-423b-a2b2-1d7ddb065329.jpg",
+        "display_name": "Luca West"
+      },
+      "source": "docs/assets/development-scenic-avatars/luca-west.jpg",
+      "bytes": 25508,
+      "sha256": "b77f05525c5c96490628a5da81241aaee7df73cb6573a42986bed5e52785b218",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "dc7e5f57-b1ed-5c06-bf84-5fec2ce9635a",
+        "bio": "Just a quick puzzle before bed, until it becomes five more. Comparing high scores for fun.",
+        "handle": "luca_west",
+        "created_at": "2026-11-06T10:03:05.493135+00:00",
+        "avatar_path": "dc7e5f57-b1ed-5c06-bf84-5fec2ce9635a/5d6afe70-490c-53f0-a2fb-d67519001689.jpg",
+        "display_name": "Luca West"
+      }
+    },
+    {
+      "id": "5b0dc3ad-4518-55d0-8488-3628d86cacdf",
+      "label": "Development Community Emma Rowan",
+      "account": "community-expanded",
+      "name": "Emma Rowan",
+      "original": {
+        "id": "5b0dc3ad-4518-55d0-8488-3628d86cacdf",
+        "bio": "Puzzle breaks between busy days. Here for satisfying chains and friendly score chasing.",
+        "handle": "emma_rowan",
+        "created_at": "2026-11-06T10:03:11.702788+00:00",
+        "avatar_path": "5b0dc3ad-4518-55d0-8488-3628d86cacdf/afb27fae-e675-4bfe-80bd-ab0892d1c739.jpg",
+        "display_name": "Emma Rowan"
+      },
+      "source": "docs/assets/development-scenic-avatars/emma-rowan.jpg",
+      "bytes": 30989,
+      "sha256": "903952f05f90dad260a5384471eacb89021c8cd908f03602f63a1ef978674720",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "5b0dc3ad-4518-55d0-8488-3628d86cacdf",
+        "bio": "Puzzle breaks between busy days. Here for satisfying chains and friendly score chasing.",
+        "handle": "emma_rowan",
+        "created_at": "2026-11-06T10:03:11.702788+00:00",
+        "avatar_path": "5b0dc3ad-4518-55d0-8488-3628d86cacdf/29edd499-3e8e-57bb-af4b-42e5aa6b6824.jpg",
+        "display_name": "Emma Rowan"
+      }
+    },
+    {
+      "id": "59bc0e8f-d247-582f-856d-6f3ed13de457",
+      "label": "Development Community Ezra Cole",
+      "account": "community-expanded",
+      "name": "Ezra Cole",
+      "original": {
+        "id": "59bc0e8f-d247-582f-856d-6f3ed13de457",
+        "bio": "Always hunting for a cleaner chain. Small puzzle games are my favorite way to unwind.",
+        "handle": "ezra_cole",
+        "created_at": "2026-11-06T10:03:18.898627+00:00",
+        "avatar_path": "59bc0e8f-d247-582f-856d-6f3ed13de457/5ff35e8a-7adb-4687-b465-b30ef2d13fd1.jpg",
+        "display_name": "Ezra Cole"
+      },
+      "source": "docs/assets/development-scenic-avatars/ezra-cole.jpg",
+      "bytes": 31917,
+      "sha256": "f63fd4945989eb80c94f6c6c8fe4dc4f5d4931c3b4068a5ca06b5aab7921b17e",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "59bc0e8f-d247-582f-856d-6f3ed13de457",
+        "bio": "Always hunting for a cleaner chain. Small puzzle games are my favorite way to unwind.",
+        "handle": "ezra_cole",
+        "created_at": "2026-11-06T10:03:18.898627+00:00",
+        "avatar_path": "59bc0e8f-d247-582f-856d-6f3ed13de457/ec980965-f86e-5bf4-94ca-f7107aaa9c2a.jpg",
+        "display_name": "Ezra Cole"
+      }
+    },
+    {
+      "id": "3660aa03-79e5-5e53-a8dc-e9e8fe0c29c0",
+      "label": "Development Community Iris Shaw",
+      "account": "community-expanded",
+      "name": "Iris Shaw",
+      "original": {
+        "id": "3660aa03-79e5-5e53-a8dc-e9e8fe0c29c0",
+        "bio": "Building weird machines and seeing what rolls. The silly solutions are usually the best.",
+        "handle": "iris_shaw",
+        "created_at": "2026-11-06T10:03:25.534046+00:00",
+        "avatar_path": "3660aa03-79e5-5e53-a8dc-e9e8fe0c29c0/708e42e6-c538-4ee9-8a92-89363fe1ef57.jpg",
+        "display_name": "Iris Shaw"
+      },
+      "source": "docs/assets/development-scenic-avatars/iris-shaw.jpg",
+      "bytes": 27950,
+      "sha256": "0a025399ebe89b776ab672891365929dba52db7f5a262e18332040ecc236d0e6",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "3660aa03-79e5-5e53-a8dc-e9e8fe0c29c0",
+        "bio": "Building weird machines and seeing what rolls. The silly solutions are usually the best.",
+        "handle": "iris_shaw",
+        "created_at": "2026-11-06T10:03:25.534046+00:00",
+        "avatar_path": "3660aa03-79e5-5e53-a8dc-e9e8fe0c29c0/68b5ad02-252c-5ca1-95bb-9597cd416d52.jpg",
+        "display_name": "Iris Shaw"
+      }
+    },
+    {
+      "id": "73942806-20d7-54c8-bc77-1419d1bd9d7c",
+      "label": "Development Community Sam Archer",
+      "account": "community-expanded",
+      "name": "Sam Archer",
+      "original": {
+        "id": "73942806-20d7-54c8-bc77-1419d1bd9d7c",
+        "bio": "Overthinking simple puzzles is a hobby. Send me your most ridiculous working machine.",
+        "handle": "sam_archer",
+        "created_at": "2026-11-06T10:03:32.657353+00:00",
+        "avatar_path": "73942806-20d7-54c8-bc77-1419d1bd9d7c/9214055a-0ab7-4441-b1ea-f971ab4ab428.jpg",
+        "display_name": "Sam Archer"
+      },
+      "source": "docs/assets/development-scenic-avatars/sam-archer.jpg",
+      "bytes": 29894,
+      "sha256": "47ba3336b3c00e8ee3e00e9bff7d4f3057203faafdcfd997701934a70bdad8c4",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "73942806-20d7-54c8-bc77-1419d1bd9d7c",
+        "bio": "Overthinking simple puzzles is a hobby. Send me your most ridiculous working machine.",
+        "handle": "sam_archer",
+        "created_at": "2026-11-06T10:03:32.657353+00:00",
+        "avatar_path": "73942806-20d7-54c8-bc77-1419d1bd9d7c/9b885cee-3256-502a-8388-fb20391390f8.jpg",
+        "display_name": "Sam Archer"
+      }
+    },
+    {
+      "id": "19dbbc8f-5796-527c-9a2b-1bd882fab368",
+      "label": "Development Community Leah Quinn",
+      "account": "community-expanded",
+      "name": "Leah Quinn",
+      "original": {
+        "id": "19dbbc8f-5796-527c-9a2b-1bd882fab368",
+        "bio": "Part puzzle fan, part improvised engineer. I like finding a different way to solve things.",
+        "handle": "leah_quinn",
+        "created_at": "2026-11-06T10:03:41.224142+00:00",
+        "avatar_path": "19dbbc8f-5796-527c-9a2b-1bd882fab368/b8c99068-a2bc-49ed-9850-7e2421a96e5b.jpg",
+        "display_name": "Leah Quinn"
+      },
+      "source": "docs/assets/development-scenic-avatars/leah-quinn.jpg",
+      "bytes": 25478,
+      "sha256": "227b60f707f100caa90eddaa121462f9d2bfd9bbcc84c186e5f6162a159055cb",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "19dbbc8f-5796-527c-9a2b-1bd882fab368",
+        "bio": "Part puzzle fan, part improvised engineer. I like finding a different way to solve things.",
+        "handle": "leah_quinn",
+        "created_at": "2026-11-06T10:03:41.224142+00:00",
+        "avatar_path": "19dbbc8f-5796-527c-9a2b-1bd882fab368/48568bb8-1dfe-5c62-829f-6591aa5b1af8.jpg",
+        "display_name": "Leah Quinn"
+      }
+    },
+    {
+      "id": "97dd6a5a-0881-51ae-b6f7-e2aee09754a8",
+      "label": "Development Community Dante Knox",
+      "account": "community-expanded",
+      "name": "Dante Knox",
+      "original": {
+        "id": "97dd6a5a-0881-51ae-b6f7-e2aee09754a8",
+        "bio": "Retro shooters, custom maps and fast little runs. Taking the scenic route is optional.",
+        "handle": "dante_knox",
+        "created_at": "2026-11-06T10:03:50.559675+00:00",
+        "avatar_path": "97dd6a5a-0881-51ae-b6f7-e2aee09754a8/c54b63c3-be86-4ab5-bad6-9d1c0caeab8f.jpg",
+        "display_name": "Dante Knox"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/dante-knox.jpg",
+      "bytes": 13659,
+      "sha256": "50ba27e853850c35d94f8ccb40279bb69d977ab17593de57596453740035dd50",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "97dd6a5a-0881-51ae-b6f7-e2aee09754a8",
+        "bio": "Retro shooters, custom maps and fast little runs. Taking the scenic route is optional.",
+        "handle": "dante_knox",
+        "created_at": "2026-11-06T10:03:50.559675+00:00",
+        "avatar_path": "97dd6a5a-0881-51ae-b6f7-e2aee09754a8/c54b63c3-be86-4ab5-bad6-9d1c0caeab8f.jpg",
+        "display_name": "Dante Knox"
+      }
+    },
+    {
+      "id": "786fc76d-1070-55b4-81ef-30a08dcdae4e",
+      "label": "Development Community Naomi Chase",
+      "account": "community-expanded",
+      "name": "Naomi Chase",
+      "original": {
+        "id": "786fc76d-1070-55b4-81ef-30a08dcdae4e",
+        "bio": "Old-school action and new community maps. Always looking for another level to explore.",
+        "handle": "naomi_chase",
+        "created_at": "2026-11-06T10:03:57.629316+00:00",
+        "avatar_path": "786fc76d-1070-55b4-81ef-30a08dcdae4e/2eec2eb4-7897-4e31-a0af-57fb375d8e1f.jpg",
+        "display_name": "Naomi Chase"
+      },
+      "source": "docs/assets/development-scenic-avatars/naomi-chase.jpg",
+      "bytes": 15965,
+      "sha256": "2e17b31a074fe73984e4679c1a7586d1469dfb8d393a5fc39e05a0494f252049",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "786fc76d-1070-55b4-81ef-30a08dcdae4e",
+        "bio": "Old-school action and new community maps. Always looking for another level to explore.",
+        "handle": "naomi_chase",
+        "created_at": "2026-11-06T10:03:57.629316+00:00",
+        "avatar_path": "786fc76d-1070-55b4-81ef-30a08dcdae4e/ecee6191-8af5-59df-a318-42305df6b408.jpg",
+        "display_name": "Naomi Chase"
+      }
+    },
+    {
+      "id": "52ae9afd-9819-5727-bd73-3b20c9d21168",
+      "label": "Development Community Alex Rivers",
+      "account": "community-expanded",
+      "name": "Alex Rivers",
+      "original": {
+        "id": "52ae9afd-9819-5727-bd73-3b20c9d21168",
+        "bio": "Map exploring with a side of chaotic aim. Here to trade favorite retro game finds.",
+        "handle": "alex_rivers",
+        "created_at": "2026-11-06T10:04:07.417628+00:00",
+        "avatar_path": "52ae9afd-9819-5727-bd73-3b20c9d21168/e74ef935-3f2c-4426-acee-460c1db650d9.jpg",
+        "display_name": "Alex Rivers"
+      },
+      "source": "docs/assets/development-scenic-avatars/alex-rivers.jpg",
+      "bytes": 41220,
+      "sha256": "370fc1b28958ab4544b988f4a650f30e4e17ba18a933a42cd2b92d3112a33123",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "52ae9afd-9819-5727-bd73-3b20c9d21168",
+        "bio": "Map exploring with a side of chaotic aim. Here to trade favorite retro game finds.",
+        "handle": "alex_rivers",
+        "created_at": "2026-11-06T10:04:07.417628+00:00",
+        "avatar_path": "52ae9afd-9819-5727-bd73-3b20c9d21168/b7c58fbc-50f8-548d-aaf7-d23b882df296.jpg",
+        "display_name": "Alex Rivers"
+      }
+    },
+    {
+      "id": "94ad5bcf-2ebf-5c3a-8f02-d8966fe5f83e",
+      "label": "Development Community Mina Flores",
+      "account": "community-expanded",
+      "name": "Mina Flores",
+      "original": {
+        "id": "94ad5bcf-2ebf-5c3a-8f02-d8966fe5f83e",
+        "bio": "Local multiplayer nights and laughing until we lose. Co-op is better with friends.",
+        "handle": "mina_flores",
+        "created_at": "2026-11-06T10:04:14.396018+00:00",
+        "avatar_path": "94ad5bcf-2ebf-5c3a-8f02-d8966fe5f83e/f65074db-46a6-4c5b-958a-0f36530c3036.jpg",
+        "display_name": "Mina Flores"
+      },
+      "source": "docs/assets/development-scenic-avatars/mina-flores.jpg",
+      "bytes": 22761,
+      "sha256": "17c231edda259714b704283a521b5ebcefd55fd0fadb9adec153919216538d7a",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "94ad5bcf-2ebf-5c3a-8f02-d8966fe5f83e",
+        "bio": "Local multiplayer nights and laughing until we lose. Co-op is better with friends.",
+        "handle": "mina_flores",
+        "created_at": "2026-11-06T10:04:14.396018+00:00",
+        "avatar_path": "94ad5bcf-2ebf-5c3a-8f02-d8966fe5f83e/8bb0dcd4-ba03-5ffd-9359-87e195d737b5.jpg",
+        "display_name": "Mina Flores"
+      }
+    },
+    {
+      "id": "1dbb484e-a71d-51d2-832a-d568267dd417",
+      "label": "Development Community Caleb Price",
+      "account": "community-expanded",
+      "name": "Caleb Price",
+      "original": {
+        "id": "1dbb484e-a71d-51d2-832a-d568267dd417",
+        "bio": "I bring the enthusiasm, my teammates bring the coordination. Here for silly party games.",
+        "handle": "caleb_price",
+        "created_at": "2026-11-06T10:04:21.717538+00:00",
+        "avatar_path": "1dbb484e-a71d-51d2-832a-d568267dd417/0c07fd00-6402-4f0f-9de7-e473b9faeddd.jpg",
+        "display_name": "Caleb Price"
+      },
+      "source": "docs/assets/development-scenic-avatars/caleb-price.jpg",
+      "bytes": 28464,
+      "sha256": "f1d9b7f01909c3b0f874dfb67db77b151ac4814972bb4dbd5a00b767987d854b",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "1dbb484e-a71d-51d2-832a-d568267dd417",
+        "bio": "I bring the enthusiasm, my teammates bring the coordination. Here for silly party games.",
+        "handle": "caleb_price",
+        "created_at": "2026-11-06T10:04:21.717538+00:00",
+        "avatar_path": "1dbb484e-a71d-51d2-832a-d568267dd417/aa036291-75da-50a1-bd74-7cd7d47b5f29.jpg",
+        "display_name": "Caleb Price"
+      }
+    },
+    {
+      "id": "969d3d84-0bd4-581b-9321-05f027434932",
+      "label": "Development Community Zoe Avery",
+      "account": "community-expanded",
+      "name": "Zoe Avery",
+      "original": {
+        "id": "969d3d84-0bd4-581b-9321-05f027434932",
+        "bio": "Party games, couch co-op and clips that make the whole group laugh.",
+        "handle": "zoe_avery",
+        "created_at": "2026-11-06T10:04:28.453328+00:00",
+        "avatar_path": "969d3d84-0bd4-581b-9321-05f027434932/e4ddd100-b829-4a07-94da-2bb1c52642ec.jpg",
+        "display_name": "Zoe Avery"
+      },
+      "source": "docs/assets/development-scenic-avatars/zoe-avery.jpg",
+      "bytes": 21274,
+      "sha256": "930da5f7171ac6ea2d237defcc228ff796355777660619baaf5e455215142f18",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "969d3d84-0bd4-581b-9321-05f027434932",
+        "bio": "Party games, couch co-op and clips that make the whole group laugh.",
+        "handle": "zoe_avery",
+        "created_at": "2026-11-06T10:04:28.453328+00:00",
+        "avatar_path": "969d3d84-0bd4-581b-9321-05f027434932/c20a5770-5828-579a-a49a-5ac447c842f4.jpg",
+        "display_name": "Zoe Avery"
+      }
+    },
+    {
+      "id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "label": "Development Alpha",
+      "account": "alpha-beta",
+      "name": "Ethan Cole",
+      "original": {
+        "id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+        "bio": "Mostly here for good game clips and relaxed co-op. Always up for one more round.",
+        "handle": "ethan_cole",
+        "created_at": "2026-11-03T09:47:26.1679+00:00",
+        "avatar_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/4d5de38f-b6ac-4b56-926c-96242b997029.jpg",
+        "display_name": "Ethan Cole"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/ethan-cole.jpg",
+      "bytes": 22612,
+      "sha256": "54a95e0b034680764e01dcee3a933138479ccd4020254dc3a928a722f07c1c95",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+        "bio": "Mostly here for good game clips and relaxed co-op. Always up for one more round.",
+        "handle": "ethan_cole",
+        "created_at": "2026-11-03T09:47:26.1679+00:00",
+        "avatar_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/4d5de38f-b6ac-4b56-926c-96242b997029.jpg",
+        "display_name": "Ethan Cole"
+      }
+    },
+    {
+      "id": "25b18ddf-bf23-4744-bff9-03fd8c970a1c",
+      "label": "Development Beta",
+      "account": "alpha-beta",
+      "name": "Maya Reed",
+      "original": {
+        "id": "25b18ddf-bf23-4744-bff9-03fd8c970a1c",
+        "bio": "Co-op nights, cozy builds and a playlist that never ends. Send me your favorite game clip.",
+        "handle": "maya_reed",
+        "created_at": "2026-11-03T09:47:36.641671+00:00",
+        "avatar_path": "25b18ddf-bf23-4744-bff9-03fd8c970a1c/894b4132-1888-4306-af6b-56f6f06eda0c.jpg",
+        "display_name": "Maya Reed"
+      },
+      "source": "docs/assets/development-lifestyle-avatars/maya-reed.jpg",
+      "bytes": 18984,
+      "sha256": "a4dfd309886bd693168296c9a53f0cb7eabca7f2b419cfe6b2f0a6fdb017f50d",
+      "mime": "image/jpeg",
+      "dimensions": [
+        256,
+        256
+      ],
+      "current": {
+        "id": "25b18ddf-bf23-4744-bff9-03fd8c970a1c",
+        "bio": "Co-op nights, cozy builds and a playlist that never ends. Send me your favorite game clip.",
+        "handle": "maya_reed",
+        "created_at": "2026-11-03T09:47:36.641671+00:00",
+        "avatar_path": "25b18ddf-bf23-4744-bff9-03fd8c970a1c/894b4132-1888-4306-af6b-56f6f06eda0c.jpg",
+        "display_name": "Maya Reed"
+      }
+    }
+  ]
+}

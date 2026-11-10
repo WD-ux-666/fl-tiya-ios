@@ -1,0 +1,610 @@
+{
+  "posts": [
+    {
+      "id": "0266cd87-d7a3-53a6-8a08-6f454c48a6a5",
+      "status": "approved",
+      "caption": "SuperTuxKart - Kart Racing Benchmark\nVideo: SuperTux Kart-Autoren.\nhttps://commons.wikimedia.org/wiki/File:Benchmark_SuperTux_Kart_Base_Profile_2025.07.04_-_10.19.10.02.webm\nCC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/\nSeconds 30-50; H.264 MP4; cover extracted. Derivatives: CC BY-SA 4.0.\nGame assets: mixed open licenses; see source credits.",
+      "game_id": "supertuxkart",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T04:46:28.917452+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/0266cd87-d7a3-53a6-8a08-6f454c48a6a5/video.mp4",
+      "approved_at": "2026-11-04T04:52:48.306119+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/0266cd87-d7a3-53a6-8a08-6f454c48a6a5/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "084d6071-d274-52b3-8f24-62b731a741cb",
+      "status": "approved",
+      "caption": "Minecraft - Xbox Mexico Gameplay (2023)\nVideo: Xbox México.\nSource: https://commons.wikimedia.org/wiki/File:Minecraft_Gameplay.webm\nCC BY 3.0: https://creativecommons.org/licenses/by/3.0/\nFirst 8.8s; H.264 MP4 conversion; cover extracted from video. Derivatives: CC BY 3.0.",
+      "game_id": "minecraft",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-05T03:34:50.679742+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/084d6071-d274-52b3-8f24-62b731a741cb/video.mp4",
+      "approved_at": "2026-11-05T03:49:21.341256+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/084d6071-d274-52b3-8f24-62b731a741cb/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "28a87f34-378d-5c97-9e64-b608349a53a4",
+      "status": "approved",
+      "caption": "Fantastic Contraption - VR Machine Building\nVideo: Sarah Northway.\nhttps://commons.wikimedia.org/wiki/File:Fantastic_Contraption_gameplay_condensed.webm\nCC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/\nFirst 20s; H.264 MP4; cover extracted. Derivatives: CC BY-SA 3.0.",
+      "game_id": "fantastic-contraption",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T04:46:28.917452+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/28a87f34-378d-5c97-9e64-b608349a53a4/video.mp4",
+      "approved_at": "2026-11-04T04:52:48.306119+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/28a87f34-378d-5c97-9e64-b608349a53a4/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "57da4558-affa-44e7-8b1f-ae77236ad3fc",
+      "status": "approved",
+      "caption": "0 A.D. - Village and Resource Gathering\nImported test clip. Video: PantheraLeo1359531; game: Wildfire Games.\nSource: https://commons.wikimedia.org/wiki/File:4K-Gameplayausschnitt_0AD_20221001_001.webm\nCC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/\nFirst 20 seconds; H.264 MP4 conversion. Derivative: CC BY-SA 3.0.\nCover: extracted video frame; CC BY-SA 3.0.",
+      "game_id": "zero-ad",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T01:51:35.005771+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/57da4558-affa-44e7-8b1f-ae77236ad3fc/video.mp4",
+      "approved_at": "2026-11-04T02:26:32.802964+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/57da4558-affa-44e7-8b1f-ae77236ad3fc/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "6920e768-4d0a-5af1-a003-10ea2eeca518",
+      "status": "approved",
+      "caption": "Guacamelee! - Combat and Platforming\nVideo: DrinkBox Studios.\nhttps://commons.wikimedia.org/wiki/File:Guacamelee%21_STCE_B-roll_gameplay.webm\nCC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/\nFirst 20s; H.264 MP4; cover extracted. Derivatives: CC BY-SA 3.0.",
+      "game_id": "guacamelee",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T04:46:28.917452+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6920e768-4d0a-5af1-a003-10ea2eeca518/video.mp4",
+      "approved_at": "2026-11-04T04:52:48.306119+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6920e768-4d0a-5af1-a003-10ea2eeca518/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "6963e789-64f3-4ca9-8ad8-b31651602692",
+      "status": "approved",
+      "caption": "0 A.D. - Winter 2007 Gameplay Preview\nImported test clip. Video: Wildfire Games; game: Wildfire Games.\nSource: https://commons.wikimedia.org/wiki/File:0_A.D._-_Gameplay_Preview_-_Winter_2007.ogv\nCC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/\nFirst 20 seconds; H.264 MP4 conversion. Derivative: CC BY-SA 3.0.\nCover: extracted video frame; CC BY-SA 3.0.",
+      "game_id": "zero-ad",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T01:51:35.005771+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6963e789-64f3-4ca9-8ad8-b31651602692/video.mp4",
+      "approved_at": "2026-11-04T02:26:32.802964+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6963e789-64f3-4ca9-8ad8-b31651602692/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "86916319-1668-569a-8fd0-8ff991d483c4",
+      "status": "approved",
+      "caption": "PUBG MOBILE - Erangel Imagination Plaza (2023 official promo)\nVideo: PUBG MOBILE.\nSource: https://commons.wikimedia.org/wiki/File:PUBG_MOBILE_-_Erangel%27s_New_Imagination_Plaza.webm\nCC BY 3.0: https://creativecommons.org/licenses/by/3.0/\nSeconds 45-65; H.264 MP4 conversion; cover extracted from video. Derivatives: CC BY 3.0.",
+      "game_id": "pubg-mobile",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-05T03:34:50.679742+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/86916319-1668-569a-8fd0-8ff991d483c4/video.mp4",
+      "approved_at": "2026-11-05T03:49:21.341256+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/86916319-1668-569a-8fd0-8ff991d483c4/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "89630fe1-6fbe-5d05-aafe-6b29afb38fb5",
+      "status": "approved",
+      "caption": "Manifold Garden - Impossible Architecture\nVideo: William Chyr.\nhttps://commons.wikimedia.org/wiki/File:ManifoldGarden_BRoll02_E3_V01.webm\nCC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/\nFirst 20s; H.264 MP4; cover extracted. Derivatives: CC BY-SA 3.0.",
+      "game_id": "manifold-garden",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T04:46:28.917452+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/89630fe1-6fbe-5d05-aafe-6b29afb38fb5/video.mp4",
+      "approved_at": "2026-11-04T04:52:48.306119+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/89630fe1-6fbe-5d05-aafe-6b29afb38fb5/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "92a21b23-6a4f-4671-8619-3a018d8967b4",
+      "status": "approved",
+      "caption": "Minetest - Flowing Lava\nImported test clip. Video: PantheraLeo1359531; game: Perttu Ahola / The Minetest Team.\nSource: https://commons.wikimedia.org/wiki/File:Devtest_Minetest_5.6.1_Lava_block_2023.01.04_-_20.29.08.02.webm\nCC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/\nFirst 20 seconds; H.264 MP4 conversion. Derivative: CC BY-SA 3.0.\nCover: extracted video frame; CC BY-SA 3.0.",
+      "game_id": "minetest",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T01:51:35.005771+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/92a21b23-6a4f-4671-8619-3a018d8967b4/video.mp4",
+      "approved_at": "2026-11-04T02:26:32.802964+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/92a21b23-6a4f-4671-8619-3a018d8967b4/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "bb5f6920-3801-5d4c-8f6e-14c87bcbcbb8",
+      "status": "approved",
+      "caption": "Push Me Pull You - Team Play\nVideo: House House.\nhttps://commons.wikimedia.org/wiki/File:Push_Me_Pull_You_gameplay_1.webm\nCC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/\nFirst 7.233s; H.264 MP4; cover extracted. Derivatives: CC BY-SA 3.0.",
+      "game_id": "push-me-pull-you",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T04:46:28.917452+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/bb5f6920-3801-5d4c-8f6e-14c87bcbcbb8/video.mp4",
+      "approved_at": "2026-11-04T04:52:48.306119+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/bb5f6920-3801-5d4c-8f6e-14c87bcbcbb8/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "df55c5a2-7441-54fa-acd8-8429d331bda9",
+      "status": "approved",
+      "caption": "Freedoom - First-Level Action\nVideo: CapoFantasma97.\nhttps://commons.wikimedia.org/wiki/File:Freedoom_-_Short_gameplay.webm\nCC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/\nFirst 20s; H.264 MP4; cover extracted. Derivatives: CC BY-SA 4.0.\nGame artwork: Freedoom contributors, BSD-3-Clause.",
+      "game_id": "freedoom",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T04:46:28.917452+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/df55c5a2-7441-54fa-acd8-8429d331bda9/video.mp4",
+      "approved_at": "2026-11-04T04:52:48.306119+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/df55c5a2-7441-54fa-acd8-8429d331bda9/cover.png",
+      "content_category": "gaming"
+    },
+    {
+      "id": "efaae809-9e62-5ddb-96bc-eebbe47e2747",
+      "status": "approved",
+      "caption": "Bob's Game - Puzzle Match\nVideo: Bobsgame.\nhttps://commons.wikimedia.org/wiki/File:Bob%27s_game_puzzle_gameplay.webm\nCC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/\nFirst 20s; H.264 MP4; cover extracted. Derivatives: CC BY-SA 4.0.",
+      "game_id": "bobs-game",
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "created_at": "2026-11-04T04:46:28.917452+00:00",
+      "video_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/efaae809-9e62-5ddb-96bc-eebbe47e2747/video.mp4",
+      "approved_at": "2026-11-04T04:52:48.306119+00:00",
+      "thumbnail_path": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/efaae809-9e62-5ddb-96bc-eebbe47e2747/cover.png",
+      "content_category": "gaming"
+    }
+  ],
+  "objects": [
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/0266cd87-d7a3-53a6-8a08-6f454c48a6a5/cover.png",
+      "metadata": {
+        "eTag": "\"62100779494d0175100f6be1837dc306\"",
+        "size": 333605,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:47:26.000Z",
+        "contentLength": 333605,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/0266cd87-d7a3-53a6-8a08-6f454c48a6a5/video.mp4",
+      "metadata": {
+        "eTag": "\"3f1fd027c0373c36c54d811d5ccc45d0\"",
+        "size": 9783747,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:47:21.000Z",
+        "contentLength": 9783747,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/084d6071-d274-52b3-8f24-62b731a741cb/cover.png",
+      "metadata": {
+        "eTag": "\"6e5a946d19a32f50821985296f0b65d9\"",
+        "size": 318243,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-05T03:37:32.000Z",
+        "contentLength": 318243,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/084d6071-d274-52b3-8f24-62b731a741cb/video.mp4",
+      "metadata": {
+        "eTag": "\"5ce0ce8ff058eb964ffb64010cc07f4f\"",
+        "size": 3981926,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-05T03:37:29.000Z",
+        "contentLength": 3981926,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/28a87f34-378d-5c97-9e64-b608349a53a4/cover.png",
+      "metadata": {
+        "eTag": "\"a59692de0583691201e3b72c7417436e\"",
+        "size": 237155,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:50:27.000Z",
+        "contentLength": 237155,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/28a87f34-378d-5c97-9e64-b608349a53a4/video.mp4",
+      "metadata": {
+        "eTag": "\"7ad90e9c752be5772ff24f25504bf8c7\"",
+        "size": 9794067,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:50:22.000Z",
+        "contentLength": 9794067,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/57da4558-affa-44e7-8b1f-ae77236ad3fc/cover.png",
+      "metadata": {
+        "eTag": "\"096930805f47f97c48b1808cc912af90\"",
+        "size": 412416,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T02:25:42.000Z",
+        "contentLength": 412416,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/57da4558-affa-44e7-8b1f-ae77236ad3fc/video.mp4",
+      "metadata": {
+        "eTag": "\"c415a7fdf7172e2706997061920b58ed\"",
+        "size": 9009076,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T01:51:50.000Z",
+        "contentLength": 9009076,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6920e768-4d0a-5af1-a003-10ea2eeca518/cover.png",
+      "metadata": {
+        "eTag": "\"299e5a78350b535bc2ee7e8acfa9f9c1\"",
+        "size": 337831,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:49:37.000Z",
+        "contentLength": 337831,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6920e768-4d0a-5af1-a003-10ea2eeca518/video.mp4",
+      "metadata": {
+        "eTag": "\"5aad1e491e0d315e494a448126be5048\"",
+        "size": 9482486,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:49:34.000Z",
+        "contentLength": 9482486,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6963e789-64f3-4ca9-8ad8-b31651602692/cover.png",
+      "metadata": {
+        "eTag": "\"44304f2b2bdb131721c61eb6fe458755\"",
+        "size": 316745,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T02:25:48.000Z",
+        "contentLength": 316745,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/6963e789-64f3-4ca9-8ad8-b31651602692/video.mp4",
+      "metadata": {
+        "eTag": "\"47d7d113d34b707c992498526c37ea98\"",
+        "size": 4662136,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T01:51:58.000Z",
+        "contentLength": 4662136,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/86916319-1668-569a-8fd0-8ff991d483c4/cover.png",
+      "metadata": {
+        "eTag": "\"ac47c3a77a8a620592a84796f5a40e1d\"",
+        "size": 335625,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-05T03:37:38.000Z",
+        "contentLength": 335625,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/86916319-1668-569a-8fd0-8ff991d483c4/video.mp4",
+      "metadata": {
+        "eTag": "\"17ee50c5d68b2e770be3cfeeba399168\"",
+        "size": 5960105,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-05T03:37:34.000Z",
+        "contentLength": 5960105,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/89630fe1-6fbe-5d05-aafe-6b29afb38fb5/cover.png",
+      "metadata": {
+        "eTag": "\"70ccc107dbfb1ff7557db64a86ecc5c1\"",
+        "size": 403869,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:49:46.000Z",
+        "contentLength": 403869,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/89630fe1-6fbe-5d05-aafe-6b29afb38fb5/video.mp4",
+      "metadata": {
+        "eTag": "\"66e3937faa82e001d82ad8781755f7af\"",
+        "size": 9709616,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:49:42.000Z",
+        "contentLength": 9709616,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/92a21b23-6a4f-4671-8619-3a018d8967b4/cover.png",
+      "metadata": {
+        "eTag": "\"1ca664f433d91826aec448faa2be5764\"",
+        "size": 389876,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T02:25:45.000Z",
+        "contentLength": 389876,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/92a21b23-6a4f-4671-8619-3a018d8967b4/video.mp4",
+      "metadata": {
+        "eTag": "\"ecd54dd46ba4515dd0187c0a2f853262\"",
+        "size": 3261762,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T01:51:54.000Z",
+        "contentLength": 3261762,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/bb5f6920-3801-5d4c-8f6e-14c87bcbcbb8/cover.png",
+      "metadata": {
+        "eTag": "\"dff595f197ae7ebe0b4a16fbe966eb17\"",
+        "size": 168463,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:50:33.000Z",
+        "contentLength": 168463,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/bb5f6920-3801-5d4c-8f6e-14c87bcbcbb8/video.mp4",
+      "metadata": {
+        "eTag": "\"3bb638f37ae59d87144c68977b863985\"",
+        "size": 2392477,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:50:30.000Z",
+        "contentLength": 2392477,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/df55c5a2-7441-54fa-acd8-8429d331bda9/cover.png",
+      "metadata": {
+        "eTag": "\"f1ef6f8e8771e1f9d7fc9c16ea81d1d8\"",
+        "size": 214150,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:48:16.000Z",
+        "contentLength": 214150,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/df55c5a2-7441-54fa-acd8-8429d331bda9/video.mp4",
+      "metadata": {
+        "eTag": "\"8ffa7ce38b574529694a2835b2ca2800\"",
+        "size": 9718229,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:48:11.000Z",
+        "contentLength": 9718229,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/efaae809-9e62-5ddb-96bc-eebbe47e2747/cover.png",
+      "metadata": {
+        "eTag": "\"536edafa907687bbd00d6b8aa5050afa\"",
+        "size": 257728,
+        "mimetype": "image/png",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:48:51.000Z",
+        "contentLength": 257728,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    },
+    {
+      "name": "0a8b2ca1-9e56-4843-828c-07f560fabd2a/efaae809-9e62-5ddb-96bc-eebbe47e2747/video.mp4",
+      "metadata": {
+        "eTag": "\"a13af3047040656312a6d089da90e976\"",
+        "size": 6891650,
+        "mimetype": "video/mp4",
+        "cacheControl": "no-cache",
+        "lastModified": "2026-11-04T04:48:45.000Z",
+        "contentLength": 6891650,
+        "httpStatusCode": 200
+      },
+      "owner_id": "0a8b2ca1-9e56-4843-828c-07f560fabd2a",
+      "bucket_id": "clips"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "2c4de690-9cf6-40b5-9d6c-28a44786931d",
+      "notes": "{\"source_url\": \"https://commons.wikimedia.org/wiki/File:Devtest_Minetest_5.6.1_Lava_block_2023.01.04_-_20.29.08.02.webm\", \"creator\": \"PantheraLeo1359531\", \"license\": \"CC BY-SA 3.0\", \"license_url\": \"https://creativecommons.org/licenses/by-sa/3.0/\", \"media_sha256\": \"42b748b83935a432fff7e1ee1bcd063671c492cc49b4f840f5b6bf6a7a0ebc33\", \"source_sha256\": \"4da9a7cb885fc09dcdc71468904ce22bc5013293c1f290e323f0ae04db0ebf28\", \"modifications\": \"First 20 seconds; converted from Wikimedia MOV transcode to H.264 MP4 using macOS avconvert Preset640x480.\", \"review\": \"Source file license and credits checked; H.264 MP4 atoms/duration verified; native Quick Look decoded thumbnail inspected; authenticated full-byte SHA-256 readback matched; pending peer access denied. Native in-app playback not executed.\"}",
+      "post_id": "92a21b23-6a4f-4671-8619-3a018d8967b4",
+      "decision": "approved",
+      "created_at": "2026-11-04T01:54:59.028231+00:00",
+      "reviewer_reference": "licensed-development-import-2026-11-04"
+    },
+    {
+      "id": "3e62c785-5471-4d58-bb18-5f01d13de419",
+      "notes": "{\"source_url\": \"https://commons.wikimedia.org/wiki/File:4K-Gameplayausschnitt_0AD_20221001_001.webm\", \"creator\": \"PantheraLeo1359531\", \"license\": \"CC BY-SA 3.0\", \"license_url\": \"https://creativecommons.org/licenses/by-sa/3.0/\", \"media_sha256\": \"1f133245f09a8a69f5e31492acf4567664f4304a31fd7c68b98cef82e7205205\", \"source_sha256\": \"f1d036128b9b5b6b57270058204a3773c0975cf477d0fbb5d974034d92b6bd8f\", \"modifications\": \"First 20 seconds; converted from Wikimedia MOV transcode to H.264 MP4 using macOS avconvert Preset640x480.\", \"review\": \"Source file license and credits checked; H.264 MP4 atoms/duration verified; native Quick Look decoded thumbnail inspected; authenticated full-byte SHA-256 readback matched; pending peer access denied. Native in-app playback not executed.\"}",
+      "post_id": "57da4558-affa-44e7-8b1f-ae77236ad3fc",
+      "decision": "approved",
+      "created_at": "2026-11-04T01:54:59.028231+00:00",
+      "reviewer_reference": "licensed-development-import-2026-11-04"
+    },
+    {
+      "id": "4d76f072-6b43-4fae-936e-8eea55c3d9a1",
+      "notes": "{\"source_url\": \"https://commons.wikimedia.org/wiki/File:0_A.D._-_Gameplay_Preview_-_Winter_2007.ogv\", \"creator\": \"Wildfire Games\", \"license\": \"CC BY-SA 3.0\", \"license_url\": \"https://creativecommons.org/licenses/by-sa/3.0/\", \"media_sha256\": \"404dd9103fc4275abb94b05b09b90c99fe8f78d11eaef12faed26dcc2cbdd2cc\", \"source_sha256\": \"c89ef61359531681d9fde120869f897648ea28cb86fc7be32c3b73e10e68cbb8\", \"modifications\": \"First 20 seconds; converted from Wikimedia MOV transcode to H.264 MP4 using macOS avconvert Preset640x480.\", \"review\": \"Source file license and credits checked; H.264 MP4 atoms/duration verified; native Quick Look decoded thumbnail inspected; authenticated full-byte SHA-256 readback matched; pending peer access denied. Native in-app playback not executed.\"}",
+      "post_id": "6963e789-64f3-4ca9-8ad8-b31651602692",
+      "decision": "approved",
+      "created_at": "2026-11-04T01:54:59.028231+00:00",
+      "reviewer_reference": "licensed-development-import-2026-11-04"
+    },
+    {
+      "id": "51737d84-a421-412a-a83b-105736d40be5",
+      "notes": "{\"source_url\": \"https://commons.wikimedia.org/wiki/File:4K-Gameplayausschnitt_0AD_20221001_001.webm\", \"creator\": \"PantheraLeo1359531\", \"license\": \"CC BY-SA 3.0\", \"license_url\": \"https://creativecommons.org/licenses/by-sa/3.0/\", \"media_sha256\": \"1f133245f09a8a69f5e31492acf4567664f4304a31fd7c68b98cef82e7205205\", \"thumbnail_path\": \"0a8b2ca1-9e56-4843-828c-07f560fabd2a/57da4558-affa-44e7-8b1f-ae77236ad3fc/cover.png\", \"thumbnail_sha256\": \"b0ebd87b874d5f9d3330c34fbcff02367df61615d270fedfe0de1af167a35dc4\", \"thumbnail_bytes\": 412416, \"thumbnail_dimensions\": [640, 360], \"thumbnail_modifications\": \"Video frame extracted by macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 3.0.\", \"review\": \"Actual extracted gameplay frame visually inspected; bounded PNG dimensions checked; authenticated owner full-byte readback matched; pending peer access denied. Native cover display not executed.\"}",
+      "post_id": "57da4558-affa-44e7-8b1f-ae77236ad3fc",
+      "decision": "approved",
+      "created_at": "2026-11-04T02:26:32.802964+00:00",
+      "reviewer_reference": "licensed-development-cover-import-2026-11-04"
+    },
+    {
+      "id": "7f4bc441-26e0-4149-a43b-953ca9f22cbe",
+      "notes": "{\"source_url\": \"https://commons.wikimedia.org/wiki/File:Devtest_Minetest_5.6.1_Lava_block_2023.01.04_-_20.29.08.02.webm\", \"creator\": \"PantheraLeo1359531\", \"license\": \"CC BY-SA 3.0\", \"license_url\": \"https://creativecommons.org/licenses/by-sa/3.0/\", \"media_sha256\": \"42b748b83935a432fff7e1ee1bcd063671c492cc49b4f840f5b6bf6a7a0ebc33\", \"thumbnail_path\": \"0a8b2ca1-9e56-4843-828c-07f560fabd2a/92a21b23-6a4f-4671-8619-3a018d8967b4/cover.png\", \"thumbnail_sha256\": \"35789120b39b1125bcda9d2f72488dedb1da0e07b745851962c0928963c2c7cb\", \"thumbnail_bytes\": 389876, \"thumbnail_dimensions\": [640, 360], \"thumbnail_modifications\": \"Video frame extracted by macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 3.0.\", \"review\": \"Actual extracted gameplay frame visually inspected; bounded PNG dimensions checked; authenticated owner full-byte readback matched; pending peer access denied. Native cover display not executed.\"}",
+      "post_id": "92a21b23-6a4f-4671-8619-3a018d8967b4",
+      "decision": "approved",
+      "created_at": "2026-11-04T02:26:32.802964+00:00",
+      "reviewer_reference": "licensed-development-cover-import-2026-11-04"
+    },
+    {
+      "id": "a796fb2b-46d4-4928-9795-ec18e127a18a",
+      "notes": "{\"source_url\": \"https://commons.wikimedia.org/wiki/File:0_A.D._-_Gameplay_Preview_-_Winter_2007.ogv\", \"creator\": \"Wildfire Games\", \"license\": \"CC BY-SA 3.0\", \"license_url\": \"https://creativecommons.org/licenses/by-sa/3.0/\", \"media_sha256\": \"404dd9103fc4275abb94b05b09b90c99fe8f78d11eaef12faed26dcc2cbdd2cc\", \"thumbnail_path\": \"0a8b2ca1-9e56-4843-828c-07f560fabd2a/6963e789-64f3-4ca9-8ad8-b31651602692/cover.png\", \"thumbnail_sha256\": \"243f921a8531c18e4561f05e4180265f5c2746f88ee95bd4daf1e0d16b52545a\", \"thumbnail_bytes\": 316745, \"thumbnail_dimensions\": [480, 360], \"thumbnail_modifications\": \"Video frame extracted by macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 3.0.\", \"review\": \"Actual extracted gameplay frame visually inspected; bounded PNG dimensions checked; authenticated owner full-byte readback matched; pending peer access denied. Native cover display not executed.\"}",
+      "post_id": "6963e789-64f3-4ca9-8ad8-b31651602692",
+      "decision": "approved",
+      "created_at": "2026-11-04T02:26:32.802964+00:00",
+      "reviewer_reference": "licensed-development-cover-import-2026-11-04"
+    },
+    {
+      "id": "77fd7e4b-5579-4971-9d85-6ff4f1e56b2c",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:Guacamelee%21_STCE_B-roll_gameplay.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=1286483321\",\"creator\":\"DrinkBox Studios\",\"game_artwork_creator\":\"DrinkBox Studios\",\"license\":\"CC BY-SA 3.0\",\"license_url\":\"https://creativecommons.org/licenses/by-sa/3.0/\",\"permission_evidence\":\"Provided by Chris McQuinn of DrinkBox via email. Commons VRT confirms copyright holder approval under the file license in ticket 2014070810016233.\",\"game_artwork_license\":\"CC BY-SA 3.0 for this authorized developer footage; the game itself is not asserted to be freely licensed.\",\"source_sha256\":\"8a0a4d212f15fb1bceab484c2a43db5e833994cc2d1a925f2e5ca4adb01de792\",\"media_sha256\":\"1c511f82c26c26bf11c2d3d06bdb57ddf44c777aa9194d304f660ba20ba60f1f\",\"thumbnail_sha256\":\"f1bd2ff7a6578a26cc16dfdcb7ed4cbc866a87f925008ac1fddca33ba43ee033\",\"modifications\":\"First 20 seconds; converted from Commons MPEG-4 MOV to H.264 MP4 using macOS avconvert Preset640x480.\",\"thumbnail_modifications\":\"Video frame extracted using macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 3.0.\",\"duration_seconds\":20.0,\"vrt_ticket\":\"2014070810016233\",\"clip_start_seconds\":0,\"requested_duration_seconds\":20,\"local_preparation_checks\":\"Source/video/cover SHA-256, H.264 MP4 structure, duration, PNG dimensions and byte bounds were checked. Quick Look produced decoded covers.\",\"review_limits\":\"Preparation is not exhaustive moderation. Full gameplay, content suitability and native in-app playback were not reviewed by this helper.\",\"root_execution_prerequisites\":\"Root must separately review the selected clips, verify pending access denials and authenticated media hashes, and preserve required artwork credits before executing this approval. SQL checks stored owner/MIME/size, not content hashes.\"}",
+      "post_id": "6920e768-4d0a-5af1-a003-10ea2eeca518",
+      "decision": "approved",
+      "created_at": "2026-11-04T04:52:48.306119+00:00",
+      "reviewer_reference": "licensed-development-seed-import-2026-11-04"
+    },
+    {
+      "id": "7f1d5164-c8e3-4bfe-9974-4000726ad902",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:ManifoldGarden_BRoll02_E3_V01.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=960991188\",\"creator\":\"William Chyr\",\"game_artwork_creator\":\"William Chyr\",\"license\":\"CC BY-SA 3.0\",\"license_url\":\"https://creativecommons.org/licenses/by-sa/3.0/\",\"permission_evidence\":\"Provided by author William Chyr via email. Commons VRT confirms copyright holder approval in ticket 2016062410003518.\",\"game_artwork_license\":\"CC BY-SA 3.0 for this authorized developer footage; no blanket license to game asset files inferred.\",\"source_sha256\":\"229101ab43a32a3e15e00d938d46114417c809a0198325ef60f236259fe71c65\",\"media_sha256\":\"c6b46c21c7e654560b7911801310e6ee4e37c6d3782ed3143419ede0ff95f6dd\",\"thumbnail_sha256\":\"c68654d0cb0dd4d0ce63dd3bfc70198b68cee4b7ec5c7a1348e0b5af67ff6d6d\",\"modifications\":\"First 20 seconds; converted from Commons MPEG-4 MOV to H.264 MP4 using macOS avconvert Preset640x480.\",\"thumbnail_modifications\":\"Video frame extracted using macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 3.0.\",\"duration_seconds\":20.0,\"vrt_ticket\":\"2016062410003518\",\"clip_start_seconds\":0,\"requested_duration_seconds\":20,\"local_preparation_checks\":\"Source/video/cover SHA-256, H.264 MP4 structure, duration, PNG dimensions and byte bounds were checked. Quick Look produced decoded covers.\",\"review_limits\":\"Preparation is not exhaustive moderation. Full gameplay, content suitability and native in-app playback were not reviewed by this helper.\",\"root_execution_prerequisites\":\"Root must separately review the selected clips, verify pending access denials and authenticated media hashes, and preserve required artwork credits before executing this approval. SQL checks stored owner/MIME/size, not content hashes.\"}",
+      "post_id": "89630fe1-6fbe-5d05-aafe-6b29afb38fb5",
+      "decision": "approved",
+      "created_at": "2026-11-04T04:52:48.306119+00:00",
+      "reviewer_reference": "licensed-development-seed-import-2026-11-04"
+    },
+    {
+      "id": "85e47c13-981d-42b3-9bd9-4f93596ff91f",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:Benchmark_SuperTux_Kart_Base_Profile_2025.07.04_-_10.19.10.02.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=1100308893\",\"creator\":\"SuperTux Kart-Autoren\",\"game_artwork_creator\":\"SuperTuxKart contributors\",\"license\":\"CC BY-SA 4.0\",\"license_url\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"permission_evidence\":\"File author field is SuperTux Kart-Autoren. File declares both GPL and CC BY-SA 4.0; embedded credits and asset licenses are present. Uploader category credits video creation to PantheraLeo1359531.\",\"game_artwork_license\":\"Mixed open licenses, including CC BY-SA 3.0/4.0, CC0 and GPL; preserve the linked file credits and asset license information.\",\"source_sha256\":\"39e219207d8bb379cfc507e04583f7e336dc2ddfbbe71b1b0835be37398b05a7\",\"media_sha256\":\"dcc9f0a87bf68831c3f50c53a8685e2832b57aef3f10af5b1e846e68b68d18f5\",\"thumbnail_sha256\":\"2917e07b52472df42116d3bb9a60c9fa3caea0d04a782d7397409992d859c46a\",\"modifications\":\"Seconds 30-50 of the source; converted from Commons MPEG-4 MOV to H.264 MP4 using macOS avconvert Preset640x480.\",\"thumbnail_modifications\":\"Video frame extracted using macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 4.0.\",\"duration_seconds\":20.0,\"game_artwork_license_url\":\"https://supertuxkart.net/Licensing\",\"attribution_note\":\"Use the exact file author credit SuperTux Kart-Autoren; identify PantheraLeo1359531 as uploader/recording contributor separately. Do not describe every game asset as CC BY-SA 4.0.\",\"clip_start_seconds\":30,\"requested_duration_seconds\":20,\"local_preparation_checks\":\"Source/video/cover SHA-256, H.264 MP4 structure, duration, PNG dimensions and byte bounds were checked. Quick Look produced decoded covers.\",\"review_limits\":\"Preparation is not exhaustive moderation. Full gameplay, content suitability and native in-app playback were not reviewed by this helper.\",\"root_execution_prerequisites\":\"Root must separately review the selected clips, verify pending access denials and authenticated media hashes, and preserve required artwork credits before executing this approval. SQL checks stored owner/MIME/size, not content hashes.\",\"artwork_notice_requirement\":\"Preserve the source file credits and its mixed asset license information; do not represent every game asset as CC BY-SA 4.0.\"}",
+      "post_id": "0266cd87-d7a3-53a6-8a08-6f454c48a6a5",
+      "decision": "approved",
+      "created_at": "2026-11-04T04:52:48.306119+00:00",
+      "reviewer_reference": "licensed-development-seed-import-2026-11-04"
+    },
+    {
+      "id": "8c1ea500-3779-47d5-8455-cf2c323391eb",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:Freedoom_-_Short_gameplay.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=1261285429\",\"creator\":\"CapoFantasma97\",\"game_artwork_creator\":\"Contributors to the Freedoom project\",\"license\":\"CC BY-SA 4.0\",\"license_url\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"permission_evidence\":\"Own recording by CapoFantasma97. The file separately labels the video CC BY-SA 4.0 and the game artwork BSD.\",\"game_artwork_license\":\"BSD-3-Clause artwork; game engine GPL-2.0. Retain the Freedoom copyright notice, BSD conditions and disclaimer with distribution documentation.\",\"source_sha256\":\"d05d6715c9224ce752c94c9e566a86a60ebc41a0ba66e3afb3a445a0d550837a\",\"media_sha256\":\"1f84e0a62b8b1d933abbea8194e6736774880d73661a5d539975964100bd14ab\",\"thumbnail_sha256\":\"ea91072220d295a376c6a3577930cb4e5401680b0ad28ac616cae6bccd1891f0\",\"modifications\":\"First 20 seconds; converted from Commons MPEG-4 MOV to H.264 MP4 using macOS avconvert Preset640x480.\",\"thumbnail_modifications\":\"Video frame extracted using macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 4.0.\",\"duration_seconds\":20.0,\"game_artwork_license_url\":\"https://github.com/freedoom/freedoom/blob/master/COPYING.adoc\",\"clip_start_seconds\":0,\"requested_duration_seconds\":20,\"local_preparation_checks\":\"Source/video/cover SHA-256, H.264 MP4 structure, duration, PNG dimensions and byte bounds were checked. Quick Look produced decoded covers.\",\"review_limits\":\"Preparation is not exhaustive moderation. Full gameplay, content suitability and native in-app playback were not reviewed by this helper.\",\"root_execution_prerequisites\":\"Root must separately review the selected clips, verify pending access denials and authenticated media hashes, and preserve required artwork credits before executing this approval. SQL checks stored owner/MIME/size, not content hashes.\",\"artwork_notice_requirement\":\"Root must provide the Freedoom BSD copyright notice, conditions and disclaimer in readable accompanying credits.\"}",
+      "post_id": "df55c5a2-7441-54fa-acd8-8429d331bda9",
+      "decision": "approved",
+      "created_at": "2026-11-04T04:52:48.306119+00:00",
+      "reviewer_reference": "licensed-development-seed-import-2026-11-04"
+    },
+    {
+      "id": "a6511ec8-67db-492e-b4b6-67b90e25511a",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:Fantastic_Contraption_gameplay_condensed.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=1138718930\",\"creator\":\"Sarah Northway\",\"game_artwork_creator\":\"Sarah Northway (file attribution)\",\"license\":\"CC BY-SA 3.0\",\"license_url\":\"https://creativecommons.org/licenses/by-sa/3.0/\",\"permission_evidence\":\"File credits Sarah Northway. Commons VRT confirms copyright holder approval in ticket 2016041110017522. Download is from Commons; the historical YouTube provenance is not being used as permission.\",\"game_artwork_license\":\"CC BY-SA 3.0 for this authorized developer footage; no blanket license to other game assets inferred.\",\"source_sha256\":\"0eb00d14a53c427553064826fda8639e17bdf890ef8951a56d9c5f2e3f61e919\",\"media_sha256\":\"fac66e04d57989c7780f1fa936134bcac9ae6621473198caae9d75dcd57679a5\",\"thumbnail_sha256\":\"d854dd319fef63f34983a5290e3a8a62c6f154f2579446bece22a4a764ffe5dd\",\"modifications\":\"First 20 seconds; converted from Commons MPEG-4 MOV to H.264 MP4 using macOS avconvert Preset640x480.\",\"thumbnail_modifications\":\"Video frame extracted using macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 3.0.\",\"duration_seconds\":20.003,\"vrt_ticket\":\"2016041110017522\",\"clip_start_seconds\":0,\"requested_duration_seconds\":20,\"local_preparation_checks\":\"Source/video/cover SHA-256, H.264 MP4 structure, duration, PNG dimensions and byte bounds were checked. Quick Look produced decoded covers.\",\"review_limits\":\"Preparation is not exhaustive moderation. Full gameplay, content suitability and native in-app playback were not reviewed by this helper.\",\"root_execution_prerequisites\":\"Root must separately review the selected clips, verify pending access denials and authenticated media hashes, and preserve required artwork credits before executing this approval. SQL checks stored owner/MIME/size, not content hashes.\"}",
+      "post_id": "28a87f34-378d-5c97-9e64-b608349a53a4",
+      "decision": "approved",
+      "created_at": "2026-11-04T04:52:48.306119+00:00",
+      "reviewer_reference": "licensed-development-seed-import-2026-11-04"
+    },
+    {
+      "id": "c13bb120-5561-42fd-8701-7c8ca47f3787",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:Push_Me_Pull_You_gameplay_1.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=1150891364\",\"creator\":\"House House\",\"game_artwork_creator\":\"House House\",\"license\":\"CC BY-SA 3.0\",\"license_url\":\"https://creativecommons.org/licenses/by-sa/3.0/\",\"permission_evidence\":\"Provided by Nico Disseldorp, director of House House, via email. Commons VRT confirms copyright holder approval in ticket 2016042710001885.\",\"game_artwork_license\":\"CC BY-SA 3.0 for this authorized developer footage; no blanket license to other game assets inferred.\",\"source_sha256\":\"dbf8804dedf2515776fb637b82463107de28bf11ff6be4240c4e0f5ebace40ea\",\"media_sha256\":\"3f20be1101ee91a40fdf3bd362ffacf02a6ca7ca1f184c171228b35bd6b18155\",\"thumbnail_sha256\":\"da6498fec1435bad9cbe7f31111cf36ce2f4196662e920f346958289b111edab\",\"modifications\":\"First 7.233 seconds; converted from Commons MPEG-4 MOV to H.264 MP4 using macOS avconvert Preset640x480.\",\"thumbnail_modifications\":\"Video frame extracted using macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 3.0.\",\"duration_seconds\":7.233,\"vrt_ticket\":\"2016042710001885\",\"clip_start_seconds\":0,\"requested_duration_seconds\":7.233,\"local_preparation_checks\":\"Source/video/cover SHA-256, H.264 MP4 structure, duration, PNG dimensions and byte bounds were checked. Quick Look produced decoded covers.\",\"review_limits\":\"Preparation is not exhaustive moderation. Full gameplay, content suitability and native in-app playback were not reviewed by this helper.\",\"root_execution_prerequisites\":\"Root must separately review the selected clips, verify pending access denials and authenticated media hashes, and preserve required artwork credits before executing this approval. SQL checks stored owner/MIME/size, not content hashes.\"}",
+      "post_id": "bb5f6920-3801-5d4c-8f6e-14c87bcbcbb8",
+      "decision": "approved",
+      "created_at": "2026-11-04T04:52:48.306119+00:00",
+      "reviewer_reference": "licensed-development-seed-import-2026-11-04"
+    },
+    {
+      "id": "ed6f6536-288b-4612-8091-fa2a96bce63f",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:Bob%27s_game_puzzle_gameplay.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=960991149\",\"creator\":\"Bobsgame\",\"game_artwork_creator\":\"Bobsgame\",\"license\":\"CC BY-SA 4.0\",\"license_url\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"permission_evidence\":\"Own work by Bobsgame; file records confirmation of author identity in Wikimedia ticket 2017011910017897.\",\"game_artwork_license\":\"CC BY-SA 4.0 for this developer-authored footage; no blanket license to other game assets inferred.\",\"source_sha256\":\"cef5cd009f0055c01945226c7597ab5a9744b7c2e78e86dc2888a0f4d6cafdb4\",\"media_sha256\":\"40d52976e9d13198a826f75395a38387e46665474f7de8888bac718217168634\",\"thumbnail_sha256\":\"31f791d32ebd9fea90e1b067c4418a0a5642f52a8fd7854588fde67f23281fbb\",\"modifications\":\"First 20 seconds; converted from Commons MPEG-4 MOV to H.264 MP4 using macOS avconvert Preset640x480.\",\"thumbnail_modifications\":\"Video frame extracted using macOS Quick Look at maximum 640 pixels; no artwork added. Cover derivative: CC BY-SA 4.0.\",\"duration_seconds\":20.0,\"vrt_ticket\":\"2017011910017897\",\"clip_start_seconds\":0,\"requested_duration_seconds\":20,\"local_preparation_checks\":\"Source/video/cover SHA-256, H.264 MP4 structure, duration, PNG dimensions and byte bounds were checked. Quick Look produced decoded covers.\",\"review_limits\":\"Preparation is not exhaustive moderation. Full gameplay, content suitability and native in-app playback were not reviewed by this helper.\",\"root_execution_prerequisites\":\"Root must separately review the selected clips, verify pending access denials and authenticated media hashes, and preserve required artwork credits before executing this approval. SQL checks stored owner/MIME/size, not content hashes.\"}",
+      "post_id": "efaae809-9e62-5ddb-96bc-eebbe47e2747",
+      "decision": "approved",
+      "created_at": "2026-11-04T04:52:48.306119+00:00",
+      "reviewer_reference": "licensed-development-seed-import-2026-11-04"
+    },
+    {
+      "id": "3386b08f-618e-4d57-83b8-82386422ddad",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:PUBG_MOBILE_-_Erangel%27s_New_Imagination_Plaza.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=1039390211\",\"original_publisher_url\":\"https://www.youtube.com/watch?v=tWZ9nZIeins\",\"creator\":\"PUBG MOBILE\",\"source_date\":\"2023-03-18\",\"content_kind\":\"official-promo\",\"license\":\"CC BY 3.0\",\"license_url\":\"https://creativecommons.org/licenses/by/3.0/\",\"permission_evidence\":\"Commons credits the official PUBG MOBILE channel and records independent license review on 2024-12-27 confirming CC BY 3.0 on the source. This is a 2023 anniversary promotion, not current gameplay.\",\"source_sha256\":\"6800914df2fa10204830b842dbfacfbca501d4a712a6a2607b83c3b12a33afd9\",\"media_sha256\":\"960e32ac7cb585e20884e3a26084e5b670f30a47acd75a78b4c0cd92457467e6\",\"thumbnail_sha256\":\"3fe836e2abd2836a79f588942a50c94b909017c8de056273aba3555d3e3563da\",\"modifications\":\"Seconds 45-65; Commons MOV transcode to H.264 MP4; Quick Look frame cover.\",\"review_limits\":\"Local decoded video/cover visual review and authenticated byte/hash readback must be completed separately; SQL checks owner/MIME/size, not hashes.\"}",
+      "post_id": "86916319-1668-569a-8fd0-8ff991d483c4",
+      "decision": "approved",
+      "created_at": "2026-11-05T03:49:21.341256+00:00",
+      "reviewer_reference": "licensed-development-popular-import-2026-11-04"
+    },
+    {
+      "id": "601dd7aa-07b4-4659-86c2-36c4ae6601eb",
+      "notes": "{\"source_url\":\"https://commons.wikimedia.org/wiki/File:Minecraft_Gameplay.webm\",\"source_permanent_url\":\"https://commons.wikimedia.org/w/index.php?oldid=1287415827\",\"original_publisher_url\":\"https://www.youtube.com/watch?v=T1Ua2SVUhYw\",\"creator\":\"Xbox México\",\"source_date\":\"2023-04-03\",\"content_kind\":\"gameplay\",\"license\":\"CC BY 3.0\",\"license_url\":\"https://creativecommons.org/licenses/by/3.0/\",\"permission_evidence\":\"Commons file credits Xbox México, an official Xbox subsidiary, and explicitly documents that this specific depiction was released under CC BY. It does not extend permission to other Minecraft media.\",\"source_sha256\":\"b98e64cd5c8dca1f7b550f1b9aff159c753382669b15cbf0928fe8c6bec50b41\",\"media_sha256\":\"f844035d4673ea28fe5600a04fe5f6c9814bc2c5d571a2fbc72cf99079c7cf51\",\"thumbnail_sha256\":\"5e294bbe9b94843d4d8536afa31e0b8fba73d9c0b23fd074bf637295313b2d14\",\"modifications\":\"First 8.8 seconds; Commons MOV transcode to H.264 MP4; Quick Look frame cover.\",\"review_limits\":\"Local decoded video/cover visual review and authenticated byte/hash readback must be completed separately; SQL checks owner/MIME/size, not hashes.\"}",
+      "post_id": "084d6071-d274-52b3-8f24-62b731a741cb",
+      "decision": "approved",
+      "created_at": "2026-11-05T03:49:21.341256+00:00",
+      "reviewer_reference": "licensed-development-popular-import-2026-11-04"
+    }
+  ],
+  "captured_at": "2026-11-05T10:50:08.611133+00:00",
+  "project_ref": "gpstwmffctwqlcakmvgw"
+}

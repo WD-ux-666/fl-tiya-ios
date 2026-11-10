@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "document_version": "2026-11-09-draft-2",
+  "title": "FL-Tiya Privacy Policy",
+  "status": "draft",
+  "effective_date": null,
+  "contact": "fltiya.support@gmail.com",
+  "contact_is_placeholder": false,
+  "notice": "This is a development draft, not an effective production policy. The legal operator, supported regions, age requirements, retention periods and effective date must be finalized before public release.",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "About this draft",
+      "text": "FL-Tiya is being developed as a place to share game clips and meet other players. This policy describes the intended service and the limits of the current development version. It must be updated to match the actual operator, services, regions, retention periods and providers before public release."
+    },
+    {
+      "id": "section-2",
+      "title": "Account entry",
+      "text": "To continue with a device account, check the box to accept the User Agreement and acknowledge this policy. Supabase Auth creates an account ID and issues a session. This option asks for no email address, password or verification code. Existing account records are retained. The current sign-in screen does not offer password sign-in. Where enabled, Sign in with Apple is a separate option. Apple may share your email or a relay address, depending on your choice. Supabase verifies the Apple credentials. We do not ask for your Apple Account password."
+    },
+    {
+      "id": "section-3",
+      "title": "Profiles and social content",
+      "text": "Supabase hosts account profiles, manually entered game cards, follows, friend requests, block lists and messages to provide the social features you use. Profile details, game cards and approved clips may be visible to other signed-in users, subject to account and blocking controls. Game-community membership comes from game cards you choose to save; it is not proof of a linked game account. Some development communities contain fictional players for testing friend requests. Following a player is separate from friendship. Each sender can send one nonfriend introductory message per other player; friends can continue messaging without that limit. Friend messages do not spend the introductory allowance. Removing a friend disables calls and returns messaging to any unused introduction allowance; existing message history is retained. Do not submit sensitive personal information in public profile fields or captions."
+    },
+    {
+      "title": "Photo avatars",
+      "text": "If you choose a profile photo using the system photo picker, the app crops and resizes the selected image, removes its source metadata and uploads a new private avatar image to Supabase. The app does not request access to your entire photo library. The current attached avatar can be shown to permitted signed-in users alongside your profile, comments and shared clips. Changing your avatar may leave an earlier unreferenced private upload pending trusted cleanup; account deletion removes owned avatar uploads through the storage service. Images already fetched may remain in device or content-delivery caches until those caches expire, even after the original storage object has been deleted.",
+      "id": "section-4"
+    },
+    {
+      "title": "Likes, comments and sharing",
+      "text": "The app stores the clips you like and the comments you submit with your app account. Comments are held for review; you can see your own pending comments, while other permitted users see approved comments only. Counts reflect visible users and approved comments and may change when account or blocking controls change. Deleting a comment erases its text; a minimal identifier may remain to prevent a delayed retry from recreating it. Sharing opens the system share sheet with the clip title, original source and credits; it does not export protected media files. A recipient service handles information you choose to send under its own terms.",
+      "id": "section-5"
+    },
+    {
+      "id": "section-6",
+      "title": "Your device and local information",
+      "text": "Session credentials are stored in the device Keychain with device-only protection so a server-verified session can be restored on that device. These credentials are not synchronized through iCloud Keychain or migrated in a backup to another device. If you sign out, clear the app’s saved sign-in data or switch devices, you cannot recover the device account. Temporary screen selections are held in memory. The offline development preview does not create a live account or make payments. This version has no advertising or tracking SDKs. Microphone permission is requested when you start or accept a call; camera permission is also requested for video calls. You may refuse these permissions in device Settings. Voice calls do not enable the camera."
+    },
+    {
+      "id": "section-7",
+      "title": "Voice and video calls",
+      "text": "Friends-only calls are being integrated with LiveKit Cloud and remain disabled until the service is configured. When enabled, LiveKit processes the audio or video you choose to share and connection information needed to deliver the call. Supabase stores call participants, session associations, call type, state and timestamps for authorization and delivery. This version does not enable call recording. Calls work while FL-Tiya is open and end when the app enters the background, you sign out, or the friendship is removed. Production retention periods and international processing disclosures must be finalized before release."
+    },
+    {
+      "id": "section-8",
+      "title": "Sparks purchases",
+      "text": "When purchases are enabled, Apple processes payment through your Apple Account. We do not receive your payment card number. To deliver Sparks and handle refunds, we check transaction information with Apple and store the transaction identifier, product, app account association and wallet activity using Supabase. Unfinished purchases may be checked again to prevent lost or duplicate delivery. Financial records may need to be retained separately after account deletion for fraud prevention and applicable legal obligations. Live purchases remain disabled until Apple setup and testing are completed."
+    },
+    {
+      "id": "section-9",
+      "title": "Uses and sharing",
+      "text": "Account information is used to authenticate users, provide requested features and protect the community. Supabase provides hosting and authentication, including the service for these public documents. Opening the online Privacy Policy or User Agreement sends a standard network request to the hosting service, which can process ordinary connection information. No account or sign-in credentials are required to read the public PDFs. Apple provides sign-in and purchase services when enabled. LiveKit Cloud is the selected voice and video call provider, pending service setup. Additional providers must be described before they are enabled. We do not sell personal information or use it for advertising tracking."
+    },
+    {
+      "id": "section-10",
+      "title": "Retention and security",
+      "text": "This development version uses account-based access rules and private media storage. The server retains a per-player-pair introduction marker and delivery receipts, including message identifiers and a content hash, to enforce the one-introduction limit and prevent duplicate delivery. Deleting conversation history, unfollowing or blocking and unblocking does not reset this allowance; these markers and receipts are removed when the associated account is deleted. While account deletion is processing, business-data access is disabled and media cleanup may need to be retried. Deletion removes the Auth account, profile, game cards, social relationships, conversations and messages, clip likes and comments, follows and introduction/delivery records, owned clips and avatars, and associated review records when cleanup completes. Separate purchase transaction and wallet ledger records remain, with their user link removed where the schema supports it. Call metadata, account identifiers, room names and service identities may remain for call history, safety and unfinished room cleanup. Reserved development-account entries remain disabled, including their reserved email and access-control data, to prevent old test access codes from recreating a deleted account. Production retention periods and deletion schedules for these retained records must be finalized and documented before public release. Authentication credentials must not appear in app logs or public repositories. No security measure can guarantee absolute protection."
+    },
+    {
+      "id": "section-11",
+      "title": "Your choices",
+      "text": "You may read this policy without signing in, in the app or through its public PDF link. You can edit your profile, block or unblock other players, or sign out. Device accounts, supported existing password accounts and reserved development accounts can request permanent account deletion in Settings. Signing out does not delete server data. Account deletion removes the Auth account, public profile, saved game cards, social relationships and owned uploaded media, subject to completion of cleanup and separate retained records described above. Unblocking does not restore a friendship or follow relationship and does not reset an introductory message already sent. An unused introduction may be sent; continuous messaging and calls require an accepted friend request. Apple-linked account deletion requires Apple authorization revocation and remains unavailable until that configuration is complete. Contact us at the address above for privacy questions."
+    },
+    {
+      "id": "section-12",
+      "title": "Audience and changes",
+      "text": "The service's supported regions and age requirements have not yet been finalized. These requirements, the legal operator and any international processing information must be added before public distribution. Material changes will be reflected in the effective date and communicated as required."
+    }
+  ]
+}

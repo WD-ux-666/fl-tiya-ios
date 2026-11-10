@@ -1,0 +1,30 @@
+# Live development connections
+
+## Authorized goal
+The user selected real development-only test login on2026-11-03, retaining Apple-only production login. Enable manual testing of existing profile, game-card, discovery, friend-request, text-message, block and wallet read paths using real Supabase Auth sessions and persistent data. No fake account IDs, simulated success or production authentication bypass. Home video publishing/playback, guides, frames and calls still need their own implementations/services.
+
+Root: `/Users/shangbao666/Desktop/fl-tiya-ios-main/fl-tiya-ios`. Target remains FL-Tiya `gpstwmffctwqlcakmvgw`, tely organization `nccttwrxfnmntlyavtpt`. The organization now has Toli-20261103 as well as FL-Tiya; do not touch that other project, create paid resources or switch accounts. Use durable server-owned cohorts within FL-Tiya. No iOS build/typecheck/XCTest execution, simulator, app launch, commit/push/publication is authorized; the user will run the app personally.
+
+## Login and credential design
+Provision two reserved UUIDv4 test accounts through Supabase Admin Auth with explicit IDs, synthetic non-deliverable emails, email_confirm=true, and cryptographically random per-account access codes as passwords. Root generates raw codes only into a0600 file outside the Git repository. Database holds SHA256 hashes only; source/logs/chat never contain codes, passwords, service keys or Auth tokens. No independent signup page or production alternative login is introduced.
+
+The public `development-login` Edge Function accepts exactly `{access_code}`. Hash the bounded code, call service-only `development_login_context(code_hash)` to obtain its reserved `user_id,email,label`; unknown/disabled/expired codes fail401. If needed, idempotently create that exact reserved user via automatic server Admin credentials, checking returned ID/email. Then call real Auth password sign-in and verify returned ID/session, finally confirm `session_context()` using the returned user JWT. Only after all checks return `{access_token,refresh_token,user_id,display_name}`. Failed/racing provisioning never trusts an arbitrary returned UUID. No client or caller chooses an email/beneficiary/amount. Endpoint gateway verify_jwt=false because the private access code is the authentication credential. Request body bounds and safe fixed errors are required.
+
+## Server authorization
+Add immutable server-owned `private.accounts.cohort` default production. A separate `private.development_accounts` reservation table has user_id UUID without Auth FK, email, label, code_hash, enabled, expires_at. The Auth creation trigger assigns development cohort atomically only when UUID AND email match a reservation. Production requires Apple identity + active account + current nonanonymous Auth session with a database `oauth` AMR for that exact session. A password login by an Apple-linked user must not qualify; JWT AMR is not authoritative. Keep other OAuth providers disabled because OAuth AMR is not provider-specific. Development additionally requires matching enabled/unexpired reserved UUID/email and email identity. User metadata never authorizes anything. Removing/disabling a reservation cannot turn a development account into production.
+
+`session_context()` requires an active actor and returns `{user_id,display_name,cohort}`. Client verifies Auth user and server context agree. Release refuses development context and clears it, even if a session was left in the same bundle Keychain by Debug. Session restore availability is separate from Apple button availability.
+
+User visibility, discovery, profile/card reads, requests, friendship/conversation/message reads and writes, block mutations and protected media visibility must enforce same cohort. Check block_user separately: it currently accepts any existing profile. Shared static games/frame catalog is not user data. Guide rows gain a server-owned cohort default production to prevent future test guide leakage. Existing live Apple production users and policies retain their prior behavior.
+
+Development `payment_state()` always returns Sandbox wallet/history and purchases_enabled=false, regardless of global production settings. Direct production wallet reads and production purchase credits are denied for development accounts. No free credit, fake payment or payment credential is created. The existing Apple verification endpoints keep their Apple/session checks.
+
+## Native and navigation
+Debug login adds Development access with a secure code field, explicit Live test data labeling, and no embedded password. It authenticates through the function, installs the real Auth SDK session in scoped Keychain, verifies `/user` and server context, then unlocks the existing root. Keep the offline preview as an explicit separate route; never use it for online testing. Debug live sessions display a clear development-data banner. Sign-out, restoration, late callbacks and account switching preserve current generation/invalidation rules.
+
+Games > My Card must load the same current-user game_cards source and open the existing editor, refreshing after save. Replace its obsolete unavailable copy; video/guide and other unimplemented entries retain honest availability.
+
+## Verification and handoff
+Rollback SQL fixtures exercise production/test separation both directions, anonymous/forged metadata/session denial, block mutation, expired/disabled reservations, persistent cohort classification and Sandbox-only wallet access. HTTP checks use the two actual reserved accounts to verify real login/session_context/RLS reads, wrong-code denial and temporary self-profile/card writes restored or deleted in cleanup. Do not send messages to actual people, process money or log credentials. Leave the two real test accounts clean for the user's manual walkthrough.
+
+Run current native metadata/grammar checks, server unit tests and independent reviews. Native compilation/runtime and Apple purchase testing remain unverified. Provide the correct Xcode scheme, private access-code file location, account-switch steps and a truthful feature checklist.
