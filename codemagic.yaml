@@ -5,7 +5,7 @@ workflows:
     instance_type: mac_mini_m2
 
     integrations:
-      app_store_connect: TIYA
+      app_store_connect: Tiya
 
     environment:
       xcode: "26.5"
