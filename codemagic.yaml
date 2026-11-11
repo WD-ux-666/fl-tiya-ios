@@ -1,0 +1,71 @@
+workflows:
+  tiya-ios-app-store: &tiya_app_store
+    name: TIYA iOS App Store
+    max_build_duration: 120
+    instance_type: mac_mini_m2
+
+    integrations:
+      app_store_connect: TIYA
+
+    environment:
+      xcode: "26.5"
+      ios_signing:
+        distribution_type: app_store
+        bundle_identifier: com.tiya.arcade.k7m4v9
+      vars:
+        APP_STORE_APPLE_ID: "6833276049"
+        XCODE_PROJECT: FLTiya.xcodeproj
+        XCODE_SCHEME: FLTiya
+
+    scripts:
+      - name: Set up App Store signing
+        script: |
+          set -euo pipefail
+          cd "$CM_BUILD_DIR"
+          xcode-project use-profiles --project "$XCODE_PROJECT"
+
+      - name: Set next App Store build number
+        script: |
+          set -euo pipefail
+          LATEST_BUILD_NUMBER="$(
+            app-store-connect get-latest-build-number \
+              "$APP_STORE_APPLE_ID" --platform IOS --all-versions
+          )"
+          LATEST_BUILD_NUMBER="${LATEST_BUILD_NUMBER:-0}"
+          CI_BUILD_NUMBER="${BUILD_NUMBER:-1}"
+
+          [[ "$LATEST_BUILD_NUMBER" =~ ^[0-9]+$ ]] || { echo "Invalid App Store build number."; exit 1; }
+          [[ "$CI_BUILD_NUMBER" =~ ^[0-9]+$ ]] || { echo "Invalid CI build number."; exit 1; }
+
+          NEXT_BUILD_NUMBER=$((10#$LATEST_BUILD_NUMBER + 1))
+          if (( 10#$CI_BUILD_NUMBER > NEXT_BUILD_NUMBER )); then
+            NEXT_BUILD_NUMBER=$((10#$CI_BUILD_NUMBER))
+          fi
+          echo "Using build number: $NEXT_BUILD_NUMBER"
+          echo "TIYA_BUILD_NUMBER=$NEXT_BUILD_NUMBER" >> "$CM_ENV"
+
+      - name: Build signed IPA
+        script: |
+          set -euo pipefail
+          cd "$CM_BUILD_DIR"
+          xcode-project build-ipa \
+            --project "$CM_BUILD_DIR/$XCODE_PROJECT" \
+            --scheme "$XCODE_SCHEME" \
+            --config Release \
+            --archive-xcargs "CURRENT_PROJECT_VERSION=$TIYA_BUILD_NUMBER" \
+            --ipa-directory "$CM_BUILD_DIR/build/ios/ipa"
+
+    artifacts:
+      - build/ios/ipa/*.ipa
+      - /tmp/xcodebuild_logs/*.log
+
+    publishing:
+      app_store_connect:
+        auth: integration
+        submit_to_testflight: false
+        submit_to_app_store: false
+
+  tiya-ios-signing-validation:
+    <<: *tiya_app_store
+    name: TIYA signing validation
+    publishing: {}
